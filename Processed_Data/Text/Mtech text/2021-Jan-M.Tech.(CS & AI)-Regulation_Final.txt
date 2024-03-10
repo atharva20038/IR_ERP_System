@@ -1,0 +1,126 @@
+Regulations for M.Tech. in Computer Science and Engineering with
+Specialization in Artificial Intelligence
+1. Preamble
+IIIT-Delhi subscribes to the view that a Master’s degree is primarily industry-focused, though
+it can be used as a stepping stone for research as well. The decision whether the degree is to
+be pursued for skill and knowledge up-gradation or also for building research skills should
+rest with the student.
+2. Program Educational Objectives
+The main PEOs of the program are to produce graduates that are well prepared:
+ PEO 1: to undertake industry careers involving innovation and problem solving using
+Artificial Intelligence (AI) and Machine Learning (ML) technologies.
+ PEO 2: to undertake research careers in AI, ML, and, in general, Computer Sciences
+areas
+ PEO3: to contribute to society by becoming a model professional who can
+communicate effectively and follows ethical behavior
+3. Program Outcomes: The main outcomes of the M.Tech. in CSE with specialization in
+AI program are given here. At the end of the program a student is expected to have an
+ability to:
+ PO 1: recognize and analyze problems related to AI and ML applications along with
+their ethical implications
+ PO 2: apply pattern recognition, machine learning, and artificial intelligent techniques
+including statistical data analysis and quantitative modeling techniques to solve real
+world problems from various domains such as healthcare, social computing,
+economics, etc.
+ PO 3: utilize cutting edge tools and software in AI and ML
+ PO 4: build novel algorithms or modify/improve existing approaches in AI and ML
+ PO 5: demonstrate knowledge by communicate findings and effectively present
+results
+ PO 6: understand latest development and progress in AI and ML areas
+4. General Requirements
+1.
+
+Entry qualification for this specialization will be the same as for M.Tech. CSE.
+
+1
+
+2.
+
+3.
+
+4.
+
+5.
+6.
+
+M.Tech. in CSE with specialization in Artificial Intelligence (AI) will have four
+types of courses:
+(i)
+Core AI courses,
+(ii)
+Core AI electives,
+(iii) Regular AI electives, and
+(iv)
+Open electives.
+M.Tech. may be done with a thesis, or without a thesis (Capstone Project option).
+In both the options, a student must complete 12 credits of core AI courses, at least
+8 credits from core AI electives, and at least 4 credits from regular AI elective, and
+may choose the remaining from open electives as discussed below.
+A student not fulfilling the specialization requirement can be considered for
+M.Tech. CSE (GEN) degree provided she/he fulfills other requirements. For such
+students, courses taken as core courses for M.Tech. CSE (AI) can be counted as
+bucket courses for M.Tech. CSE (GEN).
+The overall credit requirement for the M.Tech. is 48 credits. Requirements for
+thesis and Capstone Project options are as follows:
+a. With Thesis option: 32 credits of coursework + 16 credits of thesis. At most 4
+credits may be earned by doing 300 and 400 level courses.
+b.
+Without thesis option: 40 credits of coursework + Capstone Project (8
+credits). At most 8 credits may be earned by doing 300 and 400 level courses.
+A student opting for without thesis option can also be permitted to do
+Capstone project of 4 credits with 44 credits course work.
+This program does not allow Industrial Project, Scholarly Paper or coursework
+option.
+A student admitted to the M.Tech. program will give his/her choice regarding
+whether he/she wants to pursue the thesis or without thesis (Capstone) option.
+However, this choice can be changed at any time during the program by suitably
+informing the PG Committee. Credits earned for Capstone Project or Thesis may
+be counted towards thesis or Capstone Project respectively, if approved by the
+PGC.
+
+Core AI Courses – A student is required to complete 12 credits of core AI courses:
+ Artificial Intelligence
+ Introduction to Graduate Algorithms or Modern Algorithm Design (MAD) or Theoretical
+Machine Learning (TML) (one of these)
+ Statistical Machine Learning or Machine Learning (either one of these)
+Core AI Electives – A student is required to complete minimum 8 credits (12 credits for Capstone
+Project option) from below:
+
+
+
+
+
+
+Advanced Machine Learning
+Deep Learning
+Machine Learning
+Multi-Agent Systems
+Probabilistic Graphical Models
+2
+
+
+
+
+
+Reinforcement Learning
+Statistical Machine Learning
+Theoretical Machine Learning
+
+Regular AI Elective - A student is required to complete at least 4 credits (8 credits for Capstone
+Project option). Refer IIITD website for list of courses counted under this bucket.
+
+Open Electives:
+ A student can take up to 8 credits of open electives
+ All of the above and any CS course
+ In electives, at most 8 credits of “Independent Study” and “Minor Project(Independent
+Project)” combined can be taken. Online course may be permitted to be registered as
+Independent study with permission of PGC.
+Change History
+ First version- July 2018
+ January 2021
+(i) Slight modification in rule regarding max credits of M.Tech. project/Independent study that
+are allowed.
+
+3
+
+

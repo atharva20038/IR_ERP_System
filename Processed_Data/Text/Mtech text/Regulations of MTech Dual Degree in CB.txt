@@ -1,0 +1,92 @@
+Regulations for the Dual Degree Program in Computational Biology (CB)
+1. Preamble
+Dual degree programs are common in India and most IITs have it. The main motive
+behind such a program is to have some of the UG students of an Institute do their M.Tech.
+in the same Institute, so the Institute can leverage the training it had provided and the
+seamless transition into the M.Tech. program to benefit its research activity, as well as
+reduce the duration for earning the M.Tech. degree. Most dual degree programs allow for
+both degrees to be earned in five years. IIIT-D’s dual degree program followsa similar
+approach as many other Institutions.
+2. Admission and Requirements
+2.1 The application process for the dual degree may be initiated in advance and completed
+well before the placement starts.
+2.2 Application Timeline: Application for Dual Degree may be invited immediately after
+the declaration of the result of the 6th Semester. Scrutiny, selection of students,
+approval by Chair PGC and declaration of result to be completed by the middle of
+June.
+2.3 Eligibility: Only students with a CGPA of 7.0 or above at the time of applying are
+eligible for the program. A student once selected for the Dual Degree cannot avail
+placement services that year. Furthermore, a student selected for the Dual degree may
+opt-out from migration before the add/drop date of his/her 7th semester in the B.Tech.
+program. The refund of the fee paid towards the dual degree will beregulated as per
+Note 3.6 of this Regulation.
+2.4 Transfer of 12 credits: Any extra course credits earned during the B.Tech. program
+beyond what is required for the B.Tech. degree, up to a maximum of 12 credits as
+approved for the M.Tech CB program, may be counted towards course credit
+requirements for the M.Tech. degree. So, a student can do extra courses in the 3rd
+and 4th years (as Honors students do), and get these credits counted towards satisfying
+the M.Tech. course credit requirements, provided the courses are suchthat they
+can be counted for M.Tech.
+2.5 Waiver of 12 credits: Students, who have undergone B.Tech. (CSB) program of IIITD, have the necessary background and strength in foundations for M.Tech.(CB)
+program. Hence, only up to 12 credits of the core course requirement of the M.Tech.
+program, which is designed to impart some core knowledge to students, is deemed
+
+to have been satisfied, and the same is waived-off for the dual degree students for
+earning their M.Tech degree.
+(a) The following three M.Tech.(CB) core courses will be waived off only for
+students of the BTech (CSB) program: a) Cell Biology and Biochemistry (CBB) b)
+Foundations of Modern Biology (FoMB) c) Algorithms of Computational Biology
+(ACB).
+Note: As Introduction to Mathematical Biology (IMB) is also a core course for
+M.Tech(CB), a dual degree student need to complete this course which is notwaived;
+If a student has done IMB course as part of B.Tech. program requirement and not able
+to transfer that credit with the clause mentioned in 2.4 in this regulation, the student
+will have to do a BIO-numbered course in lieu of that.
+(b) The core course requirements cannot be waived off for B.Tech (CSE), B.Tech
+(ECE), and other B.Tech (CS+X) students, including those who have done a minor in
+CB. Though, up to 12 credits can be waived if a student has done BIO-numbered
+courses in their undergraduate program (only counting at most one 3xx level and two
+or more 5xx level courses). If a student has done M.Tech (CB) core courses as apart
+of their electives, then in lieu of these courses, he or she will have to do other courses
+from the M.Tech (CB) curriculum.
+Note: The courses considered for transfer of credits with the clause 2.4, can’t be
+considered for waiver.
+2.6 Mandatory requirement to complete OOPD course can be waived for Dual Degree
+students if they have taken AP during B.Tech.
+2.7 Mandatory requirement to complete RM course can be waived for Dual Degree
+students if they have taken RMSSD during B.Tech.
+2.8 A dual degree student will be considered as a B.Tech. student till the time he/she
+completes the requirements for the same; thereafter he/she will be considered as an
+M.Tech. student. The date for each degree will be based on the date of completing the
+requirements for that degree.
+2.9 The dual degree student must spend at least two semesters as an M.Tech. student.
+2.10
+A dual degree student must do an M.Tech. thesis, which may be a continuation
+of the work done in BTP. The goals of the MTech thesis should be aligned with the
+objectives of the MTech (CB) program.
+3. Notes:
+3.1 The fee for the M.Tech. portion of the dual degree program will be half of regular
+M.Tech. fee.
+
+3.2 The dual degree student will not be eligible for campus placement in his/her B.Tech.
+portion, and will be eligible only in his/her last year to use placement services.
+3.3 If a student does 12 credits extra in 3rd/4th years, as allowed, he/she will have to do 8
+credits more in the 5th year, and at least 16 credits of M.Tech. thesis, for the M.Tech.
+degree. The minimum number of credits for M.Tech. part under the Dual Degree
+program is 36.
+3.4 After the declaration of 8th-semester results, the student should specify whichcourses
+should count for B.Tech. and which for the M.Tech. degree.
+3.5 Students should be encouraged to take GATE in their 4th year to benefit from the
+scheme.
+3.6 It is clarified that after admission to the Dual Degree program the student is ineligible
+for placement. No refund of the fee will be made if he/she does not join except if
+he/she goes for higher studies in which case some amount is deducted (the amount to
+be deducted will be decided by the Competent Authority).
+3.7 On completion of B.Tech. requirements, the B.Tech. degree may be given on
+submission of No Dues Certificate.
+3.8 If he/she cannot complete the M.Tech. part of the Dual Degree program, no fee refund
+can be made.
+3.9 Internship rules for dual degree students will be the same as for M.Tech. students of
+the respective batches.
+
+

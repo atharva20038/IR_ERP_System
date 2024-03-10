@@ -1,0 +1,165 @@
+Regulations for M.Tech. (Computer Science and Engineering (CSE))
+
+1. Preamble
+IIIT-Delhi subscribes to the view that a Masters degree is primarily industry-focused, though it can be
+used as a stepping stone for research as well. The decision whether the degree is to be pursued for skill
+and knowledge up-gradation or also for building research skills should rest with a student.
+
+2. Program Educational Objectives
+PEO 1: to undertake industry careers involving innovation and problem solving using
+software and other information technologies.
+PEO 2: to undertake research careers in Computer Sciences and allied areas
+PEO3: to contribute to society by becoming a model professional who can communicate
+effectively and observes ethical behavior
+The Institute also feels that to address the needs of the industry, which today requires more specialized
+manpower as each field is getting more complex, it is desirable to provide specializations within
+Computer Science in the M.Tech. program. For this, the Institute permits a student to do an “M.Tech.
+in Computer Science and Engineering” or “M.Tech. in Computer Science and Engineering with
+specialization in <area>”.
+
+3. General Requirements
+(For Graduation requirements for M.Tech.(CSE) with specialization in Artificial Intelligence,
+refer M.Tech.(CSE)-AI regulations)
+1. M.Tech. (CSE) may be done with a thesis, or with a scholarly paper or without thesis and scholarly
+paper. In with thesis and scholarly paper options, students have to do certain amount of course
+work. In addition, students doing M.Tech. with thesis will have to do a thesis. Students with
+scholarly paper option will have to do scholarly paper instead of a thesis and will have to do
+additional courses. Students without thesis and scholarly paper option, will have to do only the
+course work.
+2. The overall credits requirement for the M.Tech. is 48 credits. In addition to 48 credits a student has
+to complete Summer refresher of 4 credits, Object Oriented Programming and Design (2 credits)
+
+1
+
+and Research Methods (2 credits). Requirements of 48 credits for all the three options are as
+follows;
+a. M.Tech. with thesis; 32 credits of course work + 16 credits of thesis. At most 4 credits
+may be earned by doing 300 and 400 level courses.
+b. M.Tech. with Scholarly Paper; 40 or 44 credits of course work + 8 or 4 credits for a
+scholarly paper. At most 8 credits may be earned by doing 300 and 400 level courses.
+c. M.Tech. without thesis and scholarly paper option; 48 credits of course work. At most
+8 credits may be earned by doing 300 and 400 level courses.
+3. A student admitted to the M.Tech. program will give his/her choice regarding whether he/she wants
+to pursue the thesis or scholarly paper or without thesis/scholarly paper option. However, this
+choice can be changed at any time during the program by suitably informing the Academic Affairs
+Committee. Credits earned for scholarly paper or thesis may be counted towards thesis or scholarly
+paper respectively, if approved by the AAC.
+4. Within the course work requirement, each M.Tech.(CSE) student has to earn 12 credits of core
+courses by doing one course from each of the bucket of core courses:
+Theory bucket
+
+Modern
+Algorithm
+(CSE519).
+
+Systems bucket
+
+Design Computer Architecture (CSE511)
+
+Randomized Algorithms (CSE523)
+Graduate Algorithms (CSE525)
+
+Mobile Computing (CSE535)
+Wireless Networks (CSE638 )
+
+Software bucket
+Program Analysis (CSE503)
+Information Retrieval (CSE508)
+Compiler (CSE601)
+
+Note: For M.Tech.(CSE) with Artificial Intelligence, list of courses is defined in specific regulation
+of Artificial Intelligence
+5. All other courses are electives. In electives, at most 8 credits of “Independent Study” and “Minor
+Project (Independent Project)” combined can be taken. Online course is permitted to be registered
+as Independent study.
+
+4. Requirements for Specialization other than Artificial
+Intelligence(AI).
+1. For “M.Tech. in Computer Science and Engineering with specialization in <area other than
+Artificial Intelligence>”, whereas an area refers to the areas in which specializations are offered by
+the Institute, the student must:
+a. Complete at least 16 credits of courses in the chosen area.
+b. Do thesis/scholarly paper in that area. The advisor will certify this fact. A student doing
+M.Tech. without Thesis/Scholarly paper will not be allowed to do M.Tech. with
+specialization.
+Note; Details about Artificial Intelligence specialization are given in specific regulation of M.Tech.
+(CSE) with specialization in Artificial Intelligence.
+
+2
+
+2. If a course is in the list of courses for a specialization, as well as in one of the buckets for core
+courses, that course can be used for satisfying both the core and specialization requirements.
+However, the overall course requirements remain unchanged.
+3. The lists of courses for each specialization are specified on the specialization page on IIITD
+website.
+
+4. For a specialization, the student’s enrollment must be approved.
+5. A student enrolled in a specialization can move to M.Tech.(CSE) at any point by informing
+suitably. A student can move from M.Tech.(CSE) to a specialization only if permitted by the
+Academic Affairs Committee.
+6. If a student enrolled in a specialization completes all requirements for the M.Tech., but not the
+requirements for specialization, he/she will be eligible for “M.Tech. in Computer Science and
+Engineering”.
+
+5.
+
+Assistantship and Fee Waiver
+1. Limited number of Assistantships will be available for M.Tech. students. As specified in the
+Regulations for M.Tech./PhD Programs, a student who is offered an Assistantship will be required
+to do 10-15 hours of academic work per week in-lieu of the Assistantship.
+2. Limited number of partial or full fee-waivers may be provided.
+
+Change History:
+Version 2.0 (Jan 2012). Changes made: Clarified that “sufficient core courses should be offered so a
+student can complete the core requirement in first two semesters”, and some courses added to the three sets;
+The following regulation deleted: “Assistantship is available only for with-thesis option. A student on
+Assistantship will have a residency requirement of 4 semesters.” Added that “Limited number of partial or
+full fee-waivers may be provided” (since fee waiver is now delinked from assistantship in the PG
+regulations).
+July 2013
+(i) Minor change in the Preamble.
+July 2014:
+(i) Movement between specialization and without specialization clarified (ii) The scholarly paper credits
+changed from 8 to “4 or 8 (iii)Option for doing M.Tech. with Thesis/ SP/ Industry
+Internship/Capstone project added.
+July 2015:
+Following changes have been made in the main PG regulation:
+
+3
+
+i)
+ii)
+
+Replacement upto 2 courses permitted anytime
+Fresh M.Tech. student’s thesis guidance by Adjunct faculty allowed only with a cosupervisor
+
+July 2016:
+(i)
+
+Core courses in the three buckets revised as shown in the table.
+(ii) Some minor changes shown in the main PG regulations
+July 2017:
+(i)
+
+Program Educational Objectives added
+
+July 2020:
+(i)
+
+Without Thesis option added
+
+January 2021:
+(i)
+(ii)
+(iii)
+(iv)
+
+Added 3xx/4xx level courses allowed for those doing M.Tech with course work
+Slight modification in rule regarding max credits of M.Tech. project/Independent study that are
+allowed.
+Specialization rule for M.Tech. with course work option
+PG Committee changed to Academic Affairs committee.
+
+4
+
+

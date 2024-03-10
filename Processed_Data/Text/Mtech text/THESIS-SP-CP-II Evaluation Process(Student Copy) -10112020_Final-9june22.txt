@@ -1,0 +1,314 @@
+M.Tech. Thesis/SP/CapP (For Students)
+(SP-Scholarly Paper, CapP-Capstone Project)
+
+Registration Procedure of Thesis/SP/CapP and Grading:
+Thesis, Scholarly Paper (SP), Capstone Project (CapP) will have dual grading scheme.
+
+During initial semesters:
+Registration: The student will be required to register for “M.Tech. Thesis Progress/ M.Tech. Scholarly
+Paper Progress/ M.Tech. Capstone Project Progress in multiple of 4 credits on ERP.
+M.Tech. Thesis Progress (4 Cr) - MTS697z
+M.Tech. Scholarly Paper Progress (4 Cr) - MSP697z
+M.Tech. Capstone Project Progress (4 Cr) - MCP697z
+
+Grading: The grading in the initial semesters will be “S” (Satisfactory)/”X” (Unsatisfactory)based on the
+performance in that particular semester.
+
+On completion of the work:
+Registration: On completion of work and submission of the report, the registration for M.Tech.
+Thesis/Scholarly paper will be done on ERP by the Admin when the student has finally defended his/her
+Thesis or has submitted the scholarly paper.
+
+Grading: On completion of the work, the thesis defense will be conducted and the student will get a
+letter grade (A,B,C...) for 16 credits of M.Tech. Thesis. Letter grade (A, B, C…) will be awarded by the
+advisor through a thesis evaluation form. For SP/CapP, the supervisor will award letter grade while
+approving the report.
+
+Conversion:
+ For conversion of Thesis to SP/CapP or vice versa; student will take permission from the
+supervisor for the number of credits for which the conversion is approved. The grading in such
+case will be done accordingly. There will be no change in previous registration; a student availing
+this option will have a footnote mentioned about the conversion in his/her transcript.
+ After taking approval from the supervisor student has to email the approval to adminmtech@iiitd.ac.in for further process.
+
+Registration in ERP
+
+
+The student needs to register for Thesis online on the ERP. This is basically a two-stage
+registration process mentioned as below:
+>Login into ERP
+(1st Stage) >Click on “Register for Courses tab”
+>Select your batch/Term and click on fetch courses
+>Register for Thesis/SP/CaP in multiple of 4 credits.
+(2nd Stage)> Click on “Other Details tab”
+> Under Project registration: you can either fetch the topics already offered by the
+faculty or suggest a topic. (If you are suggesting a topic, please ensure that it is not
+offered before)
+> Then you need to approach the faculty to approve the same
+Note:
+1. If you have already registered the topic in previous semester, and registered for fresh credit
+in current semester, you just need to extend the topic from previous semester in project
+registration tab. No need to suggest fresh topic again.
+2. After registration of courses (Thesis/SP/CapP) of all the credits in multiple of 4 cr. On course
+registration window then proceed for project registration. Suppose you are registering for 8
+credit of thesis, so you need to register M.Tech. Thesis Progress twice in the course
+registration tab. Then proceed for project registration. If you are registering for 4 credit of
+thesis, then going for project registration and coming back again to registration tab for
+adding 4 more credits of thesis; here the system takes the project registration only for 1st 4
+credits, so for other 4 credits you have to again do the project registration.
+
+Supervisor for Thesis/SP/CapP
+
+
+
+
+
+The student needs an IIITD Faculty as a supervisor.
+Student need to search for their supervisor themselves with the mutual research interest.
+In case the student wants to register with an external supervisor, he/she will need a co-supervisor
+from IIITD(as an internal Supervisor)
+Change of Supervisor is allowed with prior approval of present supervisor, new supervisor and PGC.
+Such change can be done by filling an advisor change form.
+
+Thesis Evaluation
+
+
+
+On completion of assigned project work student will submit the Thesis (Softcopy) as per prescribed
+format to the supervisor for evaluation.
+Supervisor will verify the Thesis, and when the supervisor is satisfied, he/she will proceed with the
+next step.
+
+
+
+
+
+
+
+
+The supervisor will identify and fix the Examiners (both Internal and External) for evaluation and get
+their concurrence. The supervisor will also send the thesis to the examiners. It is desirable if tentative
+date is also fixed.
+Supervisor will inform the defense details to admin, and admin will send invitation and will oversee
+other arrangements.
+After the defense, it is the responsibility of the student to make the changes recommended (if any),
+get the certificate signed by the supervisor, and mail the soft copy (including the signed certificate of
+the Supervisor(s), to the Academic Section(admin-mtech@iiitd.ac.in).
+The students are expected to complete their M.Tech. Thesis defense in May, August or December.
+The corresponding milestone dates are as follows:
+
+No
+
+Events
+
+1
+
+Graduation Dates
+June 21
+Sept 21
+Submission of final thesis report after thesis By May 21
+By Aug 21
+
+Jan 21
+By Dec 21
+
+Defense
+Final grade will be updated after the Thesis Winter
+Defense Report Submission at the end of
+Semester
+
+Monsoon
+Semester
+
+Summer
+Semester
+
+Best M.Tech. Thesis Award:
+1.
+2.
+3.
+4.
+
+Nomination for the award will be taken soon after the Defense in the evaluation form itself.
+21st August will be cut-off date for consideration of Best M.Tech. Thesis Defense.
+Students graduating on 21st June will be considered in the next convocation for the award.
+Ph.D. students taking M.Tech. on the way will not be eligible for the award.
+
+M.Tech. Thesis Format:
+M.Tech. Thesis should be written in a specific format which is given in Annex I
+
+SP (Scholarly Paper)
+
+
+There will be no defense in case of SP, however the student needs to submit the Scholarly
+Paper to his/her supervisor within due time and the evaluation will be done by the supervisor.
+
+
+
+After the evaluation, the student will mail the signed soft copy of SP to adminmtech@iiitd.ac.in with copy to the supervisor and seek his/her approval over email.
+
+
+
+The students are expected to complete their evaluation process in May, August or December.
+The corresponding milestone dates are as follows:
+
+No
+1
+
+Events
+
+Graduation Dates
+June 21
+Sept 21
+Submission of final report to academics
+By May 21
+By Aug 21
+Final grade will be updated after the SP Report Winter
+Summer
+Submission at the end of
+Semester
+Semester
+
+Jan 21
+By Dec 21
+Monsoon
+Semester
+
+CapP (Capstone Project)
+
+
+
+
+
+No
+1
+
+There will be no defense in case of Capstone Project, however the student needs to submit the
+Project Report to his/her supervisor within due time and the evaluation will be done by the
+supervisor.
+After the evaluation, the student will mail the soft copy of project report to adminmtech@iiitd.ac.in with the approval of supervisor.
+The students are expected to complete their evaluation process in May, August or December.
+The corresponding milestone dates are as follows:
+
+Events
+
+Graduation Dates
+June 21
+Sept 21
+Submission of final report to academics
+By May 21
+By Aug 21
+Final grade will be updated after the CapP Report Winter
+Summer
+Submission at the end of
+Semester
+Semester
+
+Jan 21
+By Dec 21
+Monsoon
+Semester
+
+Approval for Specialization:
+If a student wish to opt the degree with specialization (which is allotted to them), then apart from the
+required courses, they need to do the Thesis/SP/CapP in the same domain for which at the time of
+graduation they need to take approval from the supervisor in this regard.
+
+Thesis/SP/CapP : The supervisor will certify this in the graduation requirement form.
+The student needs to take approval from the supervisor before they register for Thesis/SP/CapP.
+
+Once the supervisor agrees, then write an email to your supervisor, with a copy to adminmtech@iiitd.ac.in. (A sample draft email is given below)
+Dear Professor
+We have agreed on a project for "Capstone Project/Thesis/Scholarly Paper" for total of ____
+many credits over a span of one/two/three semesters. As per our discussion this work is falling
+under the __________________ M.Tech. specialisation domain.
+You are requested to kindly approve the same. This is required as a part of our graduation
+requirements as I may opt for the above specialisation for graduation.
+
+Annex I
+Cover Page
+
+Page No. 1
+
+Title of Thesis
+
+by
+Student Name
+
+Under the Supervision of Dr………
+
+Indraprastha Institute of Information Technology Delhi
+Month, Year
+
+Inner Cover Page
+
+Page No. 2
+
+©Indraprastha Institute of Information Technologyy (IIITD),New Delhi 2015
+
+Inner Cover Page
+
+Page No. 3
+
+Title of Thesis
+
+by
+Student Name
+
+Submitted
+in partial fulfillment of the requirements for the degree of
+Master of Technology
+
+to
+Indraprastha Institute of Information Technology Delhi
+Month, Year
+
+Page No. 4
+
+Certificate
+
+This is to certify that the thesis titled “________________________” being submitted by (Student
+Name) to the Indraprastha Institute of Information Technology Delhi, for the award of the Master of
+Technology, is an original
+
+research work carried out by him under my supervision. In my opinion, the
+
+thesis has reached the standards fulfilling the requirements of the regulations relating to the degree.
+
+The results contained in this thesis have not been submitted in part or full to any other university or
+institute for the award of any degree/diploma.
+
+Month, Year
+
+Supervisor Name
+Department of __________
+Indraprastha Institute of Information Technology Delhi
+New Delhi 110 020
+
+Page No. 5
+
+Acknowledgements
+---------------------------------------------------------------------------------------------Page No. 6
+
+Abstracts
+---------------------------------------------------------------------------------------------Page No. 7
+
+Contents
+Certificate
+Acknowledgements
+Abstract
+List of Figures
+List of Tables
+1. Introduction
+2. Background and Related Work
+3.
+4.
+5.
+6.
+7. Conclusion
+Bibliography
+List of Publications
+References
+Curriculum Vitae (CV)
+
+

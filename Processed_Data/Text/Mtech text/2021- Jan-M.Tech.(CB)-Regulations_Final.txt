@@ -1,0 +1,117 @@
+Regulations for M.Tech. in Computational Biology (CB)
+Preamble:
+The genomic revolution in biology enables one to answer many questions in medical sciences like
+personalized medicine, the etiology of diseases like cancer, HIV, etc. However, the answers to
+these questions are impossible without a support of powerful computational and statistical tools
+that helps to understand and uncover the underlying network design principles responsible for
+these diseases. With the advent of new biotechnological techniques massive amounts of genomics
+data are generated at a rapid pace from the experiments and the analysis of these data requires
+tremendous amount of domain knowledge, solid computational background and strong
+programming skills. The entry cost of this highly interdisciplinary field consists of a good amount
+of understanding of molecular biology, genomics, algorithms, programming, statistical
+computation, machine learning, stochastic processes, and other mathematical techniques that
+underlie biological design principles. Therefore, it is imperative to stitch biology, statistics,
+algorithms and mathematical models to analyze and interpret large-scale genomic and biological
+data. Though the need and potential applications of computational biology and bioinformatics is
+tremendous in India, currently very few groups have strength and capability in this area. IIITDelhi, with its strong focus on research, and already having a good faculty in various CS and EE,
+is well suited to build a strong theoretical M.Tech. program in Computational Biology.
+Program Requirements: In the M.Tech. CB program, the student will do 32 credits of course
+work and 16 credits for a Thesis, for a total of 48 credits. The student will have to do a minimum
+of 20 credits of coursework in Computational Biology. Out of the 32 credits of course work at
+most 4 credits may be earned by doing 300 and 400 level courses.
+
+Following are the core and elective subjects for this program. This list will evolve over time.
+Core courses:
+
+
+
+
+
+Foundations of Modern Biology
+Algorithms in Computational Biology
+Cell Biology and Biochemistry
+Introduction to Mathematical Biology
+
+Elective Courses:
+
+
+
+
+
+
+Machine Learning for Biomedical Applications
+Network Biology
+Introduction to Quantitative Biology
+Statistical Computation
+Stochastic Simulation and Systems Biology
+
+
+
+
+
+
+
+
+
+Cheminformatics
+Introduction to Computational Neuroscience
+Systems and Synthetic Biology
+Practical Bioinformatics
+Stochastic Simulations in Systems Biology and Biophysics
+Molecular mechanics and Biological physics
+Network Science
+
+Among the elective course, upto 12 credits can be done from CSE course that are approved by the
+Academic Affairs committee. The following is the list of approved CSE elective courses and more
+may be added over time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Mining
+Machine Learning
+Modern Algorithm Design
+Computer Graphics
+Image Analysis/Digital Image Processing
+Advanced PRML
+GPU Computing
+Probabilistic Graphical Models
+Mobile Computing
+Foundations of Parallel Programming
+Big Data Analytics
+Statistical Computation
+Graph Theory
+Numerical Solutions for Differential Equations
+
+In electives, at most 4 credits of “Independent Study” and “Minor Project (Independent Project)”
+combined can be taken.
+Thesis: Student will be required to do a thesis in Computational Biology – there is no scholarly
+paper option.
+Preparatory Course: An intensive preparatory course is conducted for a month every year, before
+the onset of the first semester for a new M.Tech. batch of students, which includes the following
+three components: Biology, Mathematics and Programming and Data Structures.
+Change History
+July, 2014 release
+December, 2015 release
+April, 2016 release
+July, 2016 release
+
+July, 2017 release
+January, 2018 release
+January 2021 release
+
+1. PG committee changed to Academic Affairs committee
+2. 4 Credit of Independent Study changed to 4 credit of Independent study or Minor project
+
+

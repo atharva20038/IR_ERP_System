@@ -1,0 +1,113 @@
+Internship Guidelines (Applicable from M.Tech. 2020 batch)
+1. Students admitted in the M.Tech. program through the GATE qualification channel, will NOT be
+allowed to drop out of TA duty in their regular semesters (Monsoon and Winter semesters) of
+their M.Tech. degree program.
+2. M.Tech. students (both GATE & NON GATE) are eligible for a 6-month long duration internship,
+during the course of their degree program. The internship can take place ONLY in the 4th regular
+semester.
+3. In case the M.Tech. student enrolling via GATE channel receives such internship opportunity,
+his/her TA duty for the fourth semester will be relaxed.
+4. M.Tech. students (both GATE & NON GATE) can join the internship only at the beginning of the
+semester or immediately after the semester ends.
+5. M.Tech. students who completed graduation requirements by the third Semester but do not
+have internship opportunities can register for TA'ship in the fourth semester and receive the
+stipend. Once registered, they have to complete the TA'ship.
+
+Eligibility for appearing in Internships or Internships + Full Time (FT) Job offer
+M.Tech. students (both GATE & NON GATE) will be eligible to appear for internship related processes
+starting after the declaration of results of the second semester.
+However, to be eligible for the internship interview, the below criteria needs to be fulfilled.
+Successful completion of the first year (after the results and grades for TAship are announced) satisfying the
+following conditions:
+1. The student should have completed 24 credits towards graduation (by doing 12 graduation credits
+each in first two semesters) and registered for 8 graduation credits during summer semester after
+the 1st year besides successfully completing the OOPD, RM and Refresher Courses. [If a student has
+completed more than 24 credits during first two semester, they are not mandatory required to
+register for 8 credits in summer semester]
+AND
+2. Students admitted under GATE based fellowship program should receive 2 S grades (Satisfactory) in
+TA duties during the first two regular semesters.
+
+Eligibility for joining in Internships or Internships + Full Time (FT) Job offer
+If the student is offered an internship or Internship + FT offer for the fourth semester, all such offers will
+remain provisional unless & until he/she full fills the below mentioned criteria’s.
+1. The Student will be permitted to go for semester long internship only after completing all the
+graduation requirements before joining the internship. In case, a student has not completed the
+graduation requirements by the end of 3rd semester, even if an Internship offer (with or without
+full time job opportunity) is available for 4th semester, the offer will become invalid. In other
+words, such a student will be prohibited from joining the Internship or Internship + FT offer in the
+4th semester. In such a condition/scenario, the student will be required to register on campus for
+credits and should be available on campus for completing the graduation requirements, if any,
+irrespective of the type of credits left for completion (say IP/IS/Thesis). No request for exception
+will be entertained in this regard.
+2. Student must have a minimum CGPA of 6.5 as per the graduation requirement.
+3. Students admitted under GATE based fellowship program must have secured 3 S grades
+(Satisfactory) in TA duties during the first three long semesters.
+Note: In 57th Senate, it was approved that completion of the thesis is between the advisor(s) and the
+student. If a student has completed the 16 credits of M.Tech. Thesis Progress (MTS697z), then the advisor(s)
+may allow a student to go for internship, and the student can defend the thesis while being on internship. It
+may be noted that the student will be allowed to go for internship only if the advisor(s) recommends it.
+
+Collaborative Thesis with Industry or Academia
+Students generally get confused with Internship and collaborative thesis. Collaborative thesis is not same as
+internship. Collaborative thesis is a mutual understanding between a student and a faculty, where the faculty
+directly gives the student an opportunity to work on a project in collaboration with an industry or academia.
+These students will be allowed to participate only in companies offering FT roles (they will not be eligible for
+Intern+FT openings).
+Guidelines for Collaborative Thesis:
+a) For Collaborative thesis, a student has to be in the campus for 1st three regular semesters (with
+regular TA work, if admitted through GATE seats) and need to complete the course work (32
+credits+ OOPD/RM + Summer refresher). S/he will only be allowed to work from outside campus, if
+s/he has completed the coursework. S/he will only be allowed to take thesis credit while working
+from outside campus. A student may plan to compete part of thesis credit within campus and
+remaining part outside campus in the collaborated organization in consultation with the IIITD
+supervisor.
+b) Such students should take necessary approvals from the advisor and academic office before
+starting their work. The student has to submit the approval of the supervisor to the academic at
+least one week before the list of eligible students for internship+FT offer is submitted to placement
+office, so that they will be excluded from the list which will be sent to the placement who are
+eligible to sit for intern+FT offer.
+c) For a collaborative thesis, students will be allowed to work only with those industry/academia
+involved in the joint supervision of the thesis.
+d) A regular thesis cannot be converted to a collaborative thesis.
+
+Process to be followed
+Following process will be followed for Internship and Collaborative Thesis;
+a)
+
+The academic office will share the list of eligible students with the placement office after the
+declaration of Winter semester results, by 20th of June every year. The placement office will allow
+only such students to participate for an internship opening.
+
+b)
+
+The academic office will share the list of eligible students with the placement office after the
+declaration of Sem 3 results i.e. by 20th January (this will be a sub-list of the list shared as per pnt
+(a). The placement office will allow only such students to join their internship.
+
+c)
+
+After the completion of M.Tech. program, those who have existing offers (Fulltime offers,06
+months Internship+ FT, Only 06 months Internship) do have the option to choose their degree
+date.
+
+d)
+
+Students who do not have existing offers & are willing to go for 06/11-month internship in
+Semester 4 and 5 can ask for an extension in degree date and can choose their degree date. All
+other internship rules, as stated above such as “completing the credits by 3rd semester etc.” will
+be applicable to them.
+
+*****************************************End of Document***********************************************
+
+Change log:
+June 2022
+(i)
+Overload criteria under “Eligibility for appearing in Internships or Internships + Full Time (FT) Job
+offer” Point 1 removed (Ref. 51st Senate)
+(ii) Collaborative Thesis with Industry or Academia, Point (b) updated. (Ref. 53rd Senate)
+(iii) Students are allowed to go for internship & defend the thesis during internship if they’ve
+completed 16 credits of M.Tech. Thesis Defense progress (MTS697z) subject to approval of
+Advisor. (Ref. 57th Senate)
+
+

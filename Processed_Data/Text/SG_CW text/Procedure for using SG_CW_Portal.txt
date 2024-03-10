@@ -1,0 +1,55 @@
+Procedure for using the SG/CW Portal
+Account Registration Phase
+1. Connect to the IIITD network using Forticlient VPN in case you aren’t present on the IIITD network already.
+2. Login using your IIITD account at http://sgcw.iiitd.edu.in/
+3. In case your Email ID doesn’t match your current batch (for example your email is abc17001@iiitd.ac.in however
+you are a student of 2018 batch), go to the update profile section and change your current batch to 2018.
+
+Project Registration Phase
+1. Go to the “My Projects” section on the homepage.
+
+2. Click on “Add New Project” for adding a new project. Please note that the button would not be visible once the
+registration gets over.
+
+3. Add all necessary details about the project in the next page. Select Category as “Self Growth” or “Community
+Work” according to the work you are planning to do.
+
+1
+
+4. Ensure that you are selecting the correct semester and click on Start Project.
+5. (Optional) You can associate your project with an organization currently recognized by the institute. It will help
+us in the future in finding statistics related to a particular organization.
+
+2
+
+After successfully associating, you will get the following message.
+
+6. Go back to your “My Projects” section and head over to your current project.
+
+7. Go to the bottom of the page and go to the “Upload Files” section. Use the template provided here and submit a
+new PDF file as “Proposal”.
+
+8. Now wait for the admin to verify your project. Once the project is verified by the admin, you will receive the
+following mail.
+
+3
+
+Project Completion Phase
+1. Once the project/work is completed, go back to your current projects on the SG/CW Portal and upload your
+logs, final report (as a PDF, using the template here) and your presentation/poster for the report.
+
+2. Once you have uploaded all files, click on submit project so that the Admin can receive your project so that
+they can mark it as completed. They can NOT mark it as complete unless it’s not submitted.
+
+4
+
+3. Present your work during the SG/CW Presentation session which happens every semester.
+4. Once the presentation is completed, the admin will mark your project as “Completed” and “Presented” and
+you will receive the following email.
+
+5. Congrats you have successfully completed your SG/CW Project. You can see the progress on the SG/CW
+Portal under every project.
+
+5
+
+

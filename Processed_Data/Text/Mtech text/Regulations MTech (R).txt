@@ -1,0 +1,146 @@
+Regulations for M.Tech. (Research) Computer Science and Engineering (CSE)
+1. Preamble
+IIIT-Delhi subscribes to the view that a Masters (Research) degree is primarily research-focused
+and aims to prepare a student to develop an adequate in-depth understanding of a foundational topic
+of today’s computing technology. The decision whether the degree is to be pursued for skill and
+knowledge upgradation or also for building research skills at pre-doctoral level should rest with a
+student.
+
+2. Program Educational Objectives
+The main PEOs of the program are to produce graduates that are well prepared:
+● PEO 1: to undertake research centric academic and/or industry careers involving problem
+solving using computing technologies.
+● PEO 2: to perform collaborative research & engagement with peers and lead innovation in
+projects.
+● PEO 3: to demonstrate the requisite breadth and depth of knowledge in advanced areas of
+Computer Science and Engineering.
+● PEO 4: to contribute to society by becoming a model professional who can communicate
+effectively and follow ethical behavior.
+
+3. Program Outcomes:
+At the end of the program a student is expected to have an ability to:
+● PO 1: apply concepts from varied disciplines including computer science, electronics,
+mathematics, and the sciences, to engineer and develop robust and scalable systems.
+● PO 2: identify, formulate and analyze complex engineering problems, interpolate and
+extrapolate existing knowledge base and arrive at creative solutions.
+● PO 3: utilize cutting edge software packages, libraries, programming languages, and
+software development environments.
+● PO 4: make judicious use of resources and understand the impact of technology across the
+societal, ethical, environmental, and economic aspects.
+● PO 5: demonstrate knowledge by communicating the findings and effectively present the
+results.
+● PO 6: perform independent, continuous, and life-long learning required to excel in a
+professional career.
+
+4. General Requirements
+a. Eligibility Criteria:
+i.
+B.E./B.Tech. in CSE/IT/ECE/EE, or an M.C.A., or an M.Sc. in
+
+ii.
+iii.
+
+Mathematics/Statistics from a recognized university
+universities)/institute.
+Percentage marks ≥ 75% or Equivalent CGPA.
+Mandatory GATE in CSE/IT/EC/EE/MATH/ST
+
+(including
+
+state
+
+b. Reservation: The reservation policy shall be decided by the Board of Governors
+of the Institute. Exact details about these shall be provided in the admission
+prospectus each year.
+c. Program Structure:
+The overall credits requirement for the M.Tech. (Research) is 48 credits. In addition to 48
+credits a student has to complete a summer refresher of 4 credits, Object Oriented
+Programming and Design (4 credits) and Research Methods (2 credits). Requirements of
+48 credits are as follows:
+i.
+4 courses equivalent to 16 credits of CSE 500 level or above from the list of courses
+available at http://techtree.iiitd.edu.in/ or being offered in a semester.
+ii.
+M.Tech. (minor) thesis spanned over the first two semesters of the program with 4
+credits registered in each of these semesters. The evaluation will comprise
+1. Minor thesis submission in the prescribed format by the department
+adhering to the guidelines mentioned therein.
+2. Minor thesis presentation by way of a poster or seminar at the end of the
+second semester.
+iii.
+24 credits of M.Tech. thesis spanned over the second year of the program. The
+evaluation will comprise
+1. M.Tech. thesis submission in the prescribed format by the department
+adhering to the guidelines mentioned therein.
+2. M.Tech. thesis defense evaluated by a committee. The committee will
+include
+a. A faculty member of the institute working in an allied area of the
+thesis topic.
+b. A(n) (preferably external) expert familiar with the topic of the
+thesis.
+*Change of supervisor may be allowed in some special circumstances before the second
+semester starts.
+*Minor thesis in the first and second semester will be assigned with an S/X grade and a
+final letter grade will be awarded after the poster or seminar presentation for full 8 credits
+which will be counted towards SGPA and CGPA.
+*There is no provision for students admitted to M.Tech. (Research) program in CSE to
+switch to regular M.Tech. program in CSE.
+*The students are allowed to take up internships in summer term with approval of the
+supervisor.
+
+d. Program Completion:
+i.
+Continuing CGPA of at least 6.5 in every semester.
+ii.
+
+Graduating CGPA of at least 7.0.
+
+iii.
+iv.
+
+v.
+vi.
+vii.
+viii.
+
+There will be an academic warning sent to the student if the CGPA falls below the
+minimum required.
+Students have the provision for grade improvement similar to the provision
+available for regular M.Tech Program.
+Registration can be terminated if there are two consecutive warnings.
+Completion of credit requirements.
+Successful submission and defense of thesis.
+(Desirable) Research publication at a reputed venue.
+
+5. M.Tech. (Research) Assistantship:
+Rs. 21000/- per month as per the break-up give in the following:
+a. Candidates will be eligible for M.Tech. (Research) Assistantship for a maximum of 24
+months from the date of starting of the classes at IIIT-Delhi. GATE score above the
+qualifying marks announced by GATE in the past two years and the current academic year,
+will be considered valid. Assistantship for M.Tech. (Research) students will be paid at the
+rate of Rs. 12,400/- per month as per the approval of AICTE.
+b. In addition, IIITD will provide extra support of Rs. 8600/- per month for a maximum of 24
+months from the date of starting the classes at IIIT-Delhi.
+c. As specified in the Regulations for M.Tech./PhD Programs, a student who is offered an
+Assistantship will be required to do 10-15 hours of academic work per week in-lieu of the
+Assistantship.
+6. Conversion to Ph.D. Program:
+a. An M.Tech. (Research) student can change his/her program, if permitted, to Ph.D. and
+continue to do the course/research work to enable him/her to meet the requirements of the
+Ph.D. degree. Only students with CGPA > 8.00 and who would have completed a
+minimum of 2 semesters and 20 credits in M.Tech. (Research) program will be eligible to
+apply for the change to Ph.D. program. The student will be eligible for Ph.D. stipend only
+from the time he/she is approved for enrollment as a Ph.D. student. Such a student, for
+Ph.D. credit requirement, may be treated as if he/she had joined the Ph.D. program from
+the start of the PG (here, M.Tech (Research)) program. The student may be granted an
+M.Tech. (Research) degree also, provided he/she fulfills all the academic requirements for
+the same. Such a student may also be refunded his/her M.Tech. (Research) tuition fee, if
+he/she successfully completes the Ph.D. program.
+b. An M.Tech. (Research) graduated student will be eligible to pursue the sponsored Ph.D.
+program of the institute with a 100% fee waiver if he/she starts the Ph.D. program within
+two years from his/her graduation date.
+7. Other General Regulations:
+In addition to the specific regulation mentioned above, all other general regulation as specified in
+the institue’s approved PG regulations will also be applicable for M.Tech. (Research) Program.
+
+

@@ -1,0 +1,1634 @@
+REGULATIONS FOR THE M.TECH. / PH.D. PROGRAMS
+For Ordinances details please visit at the following link:
+https://www.iiitd.ac.in/sites/default/files/docs/education/PG-Ordinances.pdf
+
+1
+
+REGULATIONS FOR THE M.TECH. / PH.D. PROGRAMS
+
+1. General
+(1) This document gives the general regulations applicable to all M.Tech. and Ph.D.
+programs. Specific requirements for a particular M.Tech. program (e.g. M.Tech. in
+Computer Science and Engineering) are specified in regulations for that program. For
+Ph.D., special requirements for different disciplines (e.g. CSE, ECE, CB, Mathematics, HCD
+and SSH) are also given in this document – these special requirements have to be satisfied by
+Ph.D. students in that discipline.
+(2) While the Senate is the main statutory body for all academic matters, the Academic
+Affairs Committee (AAC), a standing committee of Senate, shall oversee matters related
+to the postgraduate and undergraduate programs. The committee will comprise of DOAA,
+AAC Chair, Chair PG Affairs, Chair UG Affairs, 8-10 faculty members having
+representation from all the departments. The committee may coopt, with the permission of
+Chairman, Senate, other Faculty members, Student representatives who will be full time
+students of the Institute, Research staff, and members of the Senate in AAC.
+
+(3) Any condition arising in the PG program and not covered in this manual shall be referred
+to the AAC committee, which may refer it to the academic senate.
+(4) Dean of Academic Affairs (DOAA) is the main functionary who ensures the smooth
+functioning of the academic programs as approved by the academic senate, executes the
+policies and decisions of the Senate and AAC, and maintains all records and files.
+
+2. Academic Session and Calendar
+(1) There are two regular semesters and one summer term in a year. Most courses are taught
+in the regular semesters. The semester timeline shall be defined in the academic calendar
+and will be broadly the following.
+a. Semester I (Monsoon Semester). Starts around in the third week of August and ends
+around third week of December.
+b. Semester II (Winter Semester). Starts around the third week of January and ends
+around the third week of May.
+c. Summer Term: Starts around the first week of June and ends around first week of
+August.
+
+3. Categories of Students
+(1) Sponsored and regular students
+
+2
+
+a. Sponsored – This category comprises of students who are working professionals and
+are sponsored by their respective organizations by giving an undertaking (NOC).
+They will not be entitled to any financial assistance from the Institute, fee waiver, and
+on-campus placement.
+b. Regular – This category of students is non-sponsored, normally registered as full
+time students.
+c. Industrial Doctoral Program
+With a view to encourage more sponsored candidates from industry for Ph.D. Program, this new
+provision will enable those experienced sponsored candidates who have constraints in attending
+regular classes on the campus like other sponsored candidates. For this new category of students
+the Advisor will have enough freedom to recommend for a particular student the type of courses
+and the mode through which the required courses to be completed by the concerned student.
+The Eligibility for such programs will be same as defined in the PG regulations.
+The Program Fee: will be Rs.1.5 Lakh per annum (same as sponsored Ph.D. program)
+
+Eligibility
+
+Remark
+
+B.Tech./BE in a relevant discipline
++ Technical experience in industry
+for 4 years or more
+
+Such applicant will
+be
+considered
+equivalent to an
+M.Tech.
+degree
+holder
+
+Coursework
+Requirement
+1. Students will be
+required to do at
+least 16 credits of
+coursework.
+
+2. The entire
+M.Tech. degree in relevant
+coursework may be
+discipline + relevant technical
+allowed through IP/
+experience in industry for 4 years
+IS / online mode,
+or more
+on recommendation
+OR
+from the advisor.
+MSc/MA/MPhil
+degree
+in
+Mathematics/
+Statistics
+/
+Economics/ any non-engineering
+discipline + 4 years of experience
+Departments will be asked to submit a list of companies which may be considered by
+the AAC for allowing admissions under this proposed Ph.D. program. The proposed
+companies should have some of their employees with Doctoral degrees.
+Students should be required to come to the institute for at least 30 days per year to
+get a feel of the campus. This period of 30 days need not be continuous; it could be
+in phases (15+15 or 15+10+5) to be mutually decided by the Advisor and the
+student.
+
+3
+
+(2) Full-time and part-time students
+a. Full Time Students – Students who are not holding regular work/employment and are
+primarily engaged in their academic program only. Full time students are expected to
+register for academic load of at least 12 credits in a semester.
+b. Part Time Students – Registered students who are engaged in regular
+work/employment elsewhere and are pursuing the program along with their regular
+employment. A part-time student is generally expected to register for at least 4 credits
+each semester.
+(3) Migration among various categories
+a. Migration from part time to full time (and vice versa) is permitted. In particular, a full
+time student may be permitted to become a part-time student towards the completion
+of the program. Migration from Regular to Sponsored and vice-versa is also
+permitted. All migrations have to be requested along with the supporting
+documentation by the student for approval to the AAC.
+
+4. Admission
+(1) Eligibility and Admission Criteria
+a. For M.Tech., an applicant must have a B.Tech./BE/MCA/M.Sc. in CS/IT/EE/ECE or
+other disciplines as may be announced, from a recognized university (including State
+Universities)/Institute.
+b. For M.Tech.(CB) an applicant must have
+1.B.Tech./BE in CS/IT/Math-and-Computing
+or
+2. B.Tech./BE in any other discipline
+3. MCA
+4. M.Sc. (Physics, Chemistry, Mathematics, Computer Science, Biochemistry,
+Microbiology, Biotechnology, Biophysics, Bioinformatics, Biomedical sciences)
+5. B.Pharm.
+6. MBBS
+7. Bachelor in Dental Surgery (BDS)
+For Point 2, 3, 4, 5, 6 the applicants must have done the following either during their
+qualifying degree or from recognized institution / online education portal:
+
+●
+●
+
+at least one computer programming course, and
+at least two Mathematics courses
+
+c. For Ph.D., an applicant must have a B.Tech./B.E./MCA/MSc. or an
+M.Tech./M.E./MS in CS/IT/EE/ECE or other disciplines as may be announced, from
+a recognized university/Institute.
+
+4
+
+d. Discipline wise eligibility conditions for Admission to Ph.D. Programs is as below:
+
+Discipline
+
+Computational Biology
+(CB)
+
+Computer Science and
+Engineering (CSE)
+
+Electronics and
+Communications
+Engineering (ECE)
+
+Mathematics
+
+Minimum Eligibility Criteria
+Essential (Minimum) Qualifications:
+• Candidates must have a BTech / BE / B.Pharma / M.Pharma / MTech /
+MS /ME / MCA / MSc / M.B.B.S. or equivalent, to be eligible to apply.
+• Candidates must have a CGPA of at least 6.5 on a scale of 10 (or
+equivalent) or 60% (applicable for all degrees).
+
+BTech/ BE/ MTech/ MS/ ME in CSE/ IT/ ECE/ EE and allied areas, with
+a CGPA of at least 7.5 on a scale of 10 (or equivalent) or 70%.
+OR
+MCA/MSc(CSE/IT/ECE/EE and allied areas) degree is considered
+equivalent to the BTech/BE degree. Such students are eligible to apply
+with a condition that they have BSc in Computer Science or BSc in any
+other subject with Mathematics as one of the courses. The marks
+requirement is same as given above.
+OR
+MSc in Mathematics with at least 70% marks in both B.Sc and M.Sc or
+7.5 CGPA and strong inclination towards CSE/ECE.
+BTech/ BE/ MTech/ MS/ ME in CSE/ IT/ ECE/ EE and allied areas with
+a CGPA of at least 7.5 on a scale of 10 (or equivalent) or 70%.
+OR
+MCA/MSc(CSE/IT/ECE/EE and allied areas) degree is considered
+equivalent to the BTech/BE degree. Such students are eligible to apply
+with a condition that they have BSc in Computer Science or BSc in any
+other subject with Mathematics as one of the courses. The marks
+requirement is same as given above.
+OR
+MSc in Mathematics with at least 70% marks in both B.Sc and M.Sc or
+7.5 CGPA and strong inclination towards CSE/ECE.
+Essential qualification: JRF from either
+UGC/CSIR/NBHM/DST or GATE score at least 400.
+AND
+MSc(Maths)/ MSc (Physics)/ MSc(Statistics)/
+MStat/ MPhil(Maths)/ BTech/ MTech/ BE / ME in
+CS/ ECE/ Maths & CS and similar inter-disciplinary
+programs with a CGPA of at least 7.5 on a scale of 10 (or equivalent) or
+at least 70% marks at UG and PG levels.
+
+5
+
+Social Sciences &
+Humanities (SSH)
+
+Disciplines and Research Areas: Cognitive Science/Psychology, New
+Media and Communication, Development Studies, Economics,
+Philosophy, Political Science, Sociology and Social Anthropology.
+Minimum Qualification:
+● MA/MPhil degree in any Social Sciences, Humanities, Liberal
+Arts, Media and Communication or similar areas with a minimum
+of 55% or 7.0 CGPA on a scale of 10.
+● MSc in Economics, Statistics, Mathematics, Cognitive
+Science/Psychology or any basic sciences with at least 55% marks
+or 7.0 CGPA on a scale of 10.
+● BTech/ MTech or equivalent in any discipline with at least 70%
+marks or 7 CGPA on a scale of 10 AND/ OR MBA with at least
+70% marks or 3.0 CGPA on a scale of 4.
+● MSW/ MCom with a minimum of score of 55% or 7.0 CGPA on
+a scale of 10.
+● Two years Full-Time Post-Graduate diploma in journalism, digital
+humanities, mass communication etc. with a minimum of 55%
+
+Human-Centered
+Design (HCD)
+
+UG or PG Engineering degrees in CSE/ECE/Design/Architecture/ Social
+Science or other related disciplines (4 year duration course)
+OR B.Des/M.Des OR MBBS/MD/M.Phil. OR MCA OR M.Sc/M.A.
+degree in design or computing-related disciplines
+The marks requirement is CGPA of at least 7.5 on a scale of 10 (or
+equivalent) or 70%.
+
+Requirements may be relaxed for exceptional candidates with publications / R&D / software
+development experience in their area of interest or those from institutes of national and
+international repute.
+e. Other eligibility/admission criteria will be decided each year, and may be different for the
+different categories of students. Admission to the programs will be based on one or more
+of the following inputs:
+(i)
+
+Past academic and professional record and recommendation letters
+
+(ii)
+
+Performance in national/international tests for PG programs
+
+(iii)
+
+Performance in the written & programming tests &/or interviews organized by
+IIIT-Delhi
+
+6
+
+(2) Reservations
+a. The reservation policy shall be decided by the Board of Governors of the Institute.
+Exact details about these shall be provided in admission prospectus each year.
+(3) Fulfillment of admission requirements
+a. On being selected for admission, candidate will be admitted if he/she:
+(i) presents original documents fulfilling the eligibility criteria,
+(ii) pays the required fee, and
+(iii) completes the admission formalities.
+(iv) A No Objection Certificate from his/her employer, if the candidate is
+employed somewhere.
+(4) Non-Degree / Visiting students
+A non-degree/visiting student is one who is registered for a degree in a recognized
+university/institute in India or abroad, and who is officially sponsored by that
+Institute/university to complete part of the academic requirements at IIIT-Delhi. Such
+students may do courses or projects in IIIT-Delhi and will be given transcripts for the
+semesters spent in the Institute. They will be governed by the rules and regulations of
+the corresponding discipline of IIIT-Delhi. Any credit earned by a non-degree student
+at IIIT-Delhi cannot be applied towards any degree/diploma offered by IIIT-Delhi at
+any time. The admission to non-degree status is decided on a case-to-case basis. The
+applications are received by the Dean of Academic Affairs.
+
+5. Financial Assistance
+(1) Teaching and Research Assistantship
+a. Financial assistantship is available for some Ph.D. / M.Tech. students in the form of
+Teaching Assistantship or Research Assistantship.
+(i) Teaching assistantship. The students under this plan are expected to help the
+instructors in various courses for the smooth running of the course.
+(ii) Research assistantship. The students under this plan are expected to help the
+faculty members in various research projects. They may be assigned limited
+academic duties.
+b. A student whose stipend is coming from a sponsored project or an external fellowship
+obtained through individual application (like TCS, IBM, Microsoft, Google etc.), will
+
+7
+
+be considered RAs, while they are obtaining support from these grants/fellowships.
+All other students will be considered TAs.
+c. Only full-time regular students are eligible for assistantships and scholarships. A
+Ph.D. student is not eligible for teaching assistantship or scholarship after five years.
+d. The teaching/research assistantship for Ph.D. students comprises sustenance stipend
+(35% of total), scholarship (15%), and remuneration for academic work (50%).
+e. Assistantship for M.Tech. students will be viewed as remuneration for the academic
+work (teaching/research) being performed at the institute.
+f. Teaching Assistantship for M.Tech. and Ph.D. students will be a ‘0’ credit course
+which will show up in Transcript. S or X grade will be allotted for the TA work.
+(2) Other Financial Assistance
+a. Certain other kinds of financial assistantship such as scholarships or fellowships
+might also be available from sources other than the Institute.
+(3) Withdrawal and reduction of financial assistantship
+a. For Ph.D. students, the financial support continuation shall be contingent upon the
+performance in academics and the assigned academic/administrative duties and will
+be reviewed every semester. The scholarship part of the assistantship may be
+terminated if the student’s academic performance is not as per standards (defined
+later). The remuneration part may be terminated or reduced if the student’s
+performance in his/her assigned duties is not satisfactory. The sustenance part may
+not be terminated or reduced as long as the student remains a full-time student of the
+Institute. The reduction/termination, if any, shall be decided by the AAC committee
+each year, based on the performance of the student.
+b. For M.Tech. students, the financial support continuation shall be based on the
+academic performance and the performance in assigned duties (teaching/research).
+Continuation/reduction/termination of financial support will be decided by the AAC
+every semester.
+
+6. Change from one Program to another
+(1) A student can change his/her registration from one program to another. All such requests
+shall be made by the student along with the supporting documents. After evaluation of
+8
+
+the requests, the AAC may approve the change. The credits for the courses and thesis
+shall be transferred to the new program. The change shall not be permitted if the
+academic performance in the old program is not good enough for continuation in the new
+program. After the changes, the rules for the new program shall be applicable.
+(2) A Ph.D. student can change his/her program to M.Tech.. If this change is done by a
+student, he/she will be treated as being in the M.Tech. program from the start of his/her
+program, and will have to refund the difference in fees and stipend between the Ph.D. and
+M.Tech. programs, if any.
+(3) If a Ph.D. student fails two reviews, then the AAC may propose either that he or she
+leaves the institute; or enroll in the M.Tech. program. If the latter, then usually full
+M.Tech. fees would be payable by the student, along with any differences in stipends. In
+some cases, the stipend difference may be reduced, waived or deferred on case-by-case
+basis.
+A warning letter will be issued by the Academic Section to students when they fail the
+first review which should also explain the above.
+(4) In special cases when a Ph.D. thesis is not found suitable for Ph.D., the candidate can
+convert to M.Tech. and resubmit the thesis with suitable enhancements for M.Tech. (and
+ensure that other requirements are met). In such a case, repaying of difference in stipends
+and fees may be waived. Students enrolled in all those disciplines in which the institute
+does not currently offers Masters program, if a student fails his or her comprehensive
+exam or the Ph.D. thesis is not found suitable, migration to a different program is not
+possible.
+(5) An M.Tech. student can change his/her program, if permitted, to Ph.D. and continue to do
+the course/research work to enable him/her to meet the requirements of the Ph.D. degree.
+Only students with CGPA >8.00 and who have completed minimum of 2 semesters and
+20 credits in M.Tech. program will be eligible to apply for the change to Ph.D. program.
+The student will be eligible for Ph.D. stipend only from the time he/she is approved for
+enrollment as the Ph.D. student. Such a student, for Ph.D. credit requirement, may be
+treated as if he/she had joined the Ph.D. program from the start of the PG (here, M.Tech)
+program. The student may be granted an M.Tech. degree also, provided he/she fulfils all
+the academic requirements for the same. Such a student may also be refunded his/her
+M.Tech. tuition fee, if he/she successfully completes the Ph.D. program.
+
+9
+
+7. Ph.D. Student getting an M.Tech.
+A student admitted in the Ph.D. program after a B.Tech. can obtain an M.Tech. degree “on
+the way” provided he/she completes the academic requirements for the same. For this:
+● Courses done for Ph.D. can count towards the M.Tech. degree.
+● Work done in the Scholarly Paper or M.Tech. thesis cannot be included in the Ph.D.
+thesis.
+● A Ph.D. student can apply for an M.Tech. degree only after completing the
+Comprehensive examination and after spending at least five semesters in the Institute.
+● If a Ph.D. student who obtains an M.Tech. degree and leaves the Institute without
+completing his/her Ph.D., he/she will be considered as having changed his program
+from Ph.D. to M.Tech. (and will have to refund the difference between stipend and
+fees as per rules.)
+● Courses such as Summer Refresher Courses will be waived off for such students.
+● If OOPD/AP and RM are taken by the student either during the
+B.Tech./M.Tech./Ph.D. in IIITD, they are not required to complete these courses
+again.
+
+8. Registration
+(1) General
+a. All Postgraduate students, full time as well as part time, are required to register each
+regular semester, unless they are on approved leave of absence. If a student is
+working outside the Institute (e.g. working with an external co-supervisor) must
+register through electronic means.
+i. If a PhD student does not register on ERP, (s)he will be marked “Absent Without
+Leave”, and his/her fellowship and other facilities will be stopped immediately.
+If an M.Tech. student does not register on ERP, (s)he will be marked “Absent
+Without Leave”. If a candidate remains “Absent Without Leave” for two
+semesters, his/her registration shall be terminated and a termination letter will be
+issued to the student with a copy to the Head of the Department (and to the
+Advisor(s) in case of Ph.D. students). Regular reminders (minimum once a
+month, so about 4-5 in a semester) will be sent to such students before issuing the
+termination letter.
+ii. The Annual Review shall be made mandatory for all Ph.D. students, even after
+5th year of Ph.D. and no exceptions will be granted for annual reviews and as
+long as any PhD student remains registered in the Ph.D. program, they will have
+to appear and clear the annual reviews regularly.
+iii. After the 5th year of Ph.D., the default fee waiver will be stopped. The student
+must pay a fee equivalent to the fee applicable to sponsored students, failing
+which his registration shall stand terminated. The Advisor(s) may request for a
+waiver of fee in genuine cases.
+
+10
+
+iv. After completing 7 years in the Ph.D. program, all Ph.D. students will be
+required to pay a fee equivalent to the fee applicable to sponsored students
+mandatorily. The fee waiver request will not be accepted in any case.
+v. Ph.D. students can be allowed to register courses and complete the program
+within a maximum of 10 years.
+vi. The maximum duration of the Ph.D. program will be 10 years from the date of
+joining. If a Ph.D. student does not submit his/her thesis within 10 years from the
+date of joining, his/her registration will be terminated and a termination letter
+will be issued to the student with a copy to the Head of the Department and to the
+Advisor(s).
+
+b. Registration process has two parts: Academic, and administrative and both must
+be completed in order to complete the registration process. Academic registration
+includes filling the registration form and specifying the courses that the student
+plans to do in the semester and getting it approved. Administrative part includes
+paying all dues to the Institute. A student who is working outside the Institute
+may get this completed through a friend/advisor/admin, etc.
+c. A student shall normally register for courses if their course requirement
+conditions are not fulfilled. A student may register for the courses and thesis
+simultaneously in a semester. Thesis/Scholarly Paper registration will be in
+multiple “courses” of 4 credits each (i.e. for 8 credits, a student will have to
+register for two thesis courses, each of 4 credits).
+d. Online Courses: IIIT-Delhi has evolved a system for allowing students to take online
+courses. Students can take advantage of the increasing amount of such courses made
+available by reputed universities across the world to complement the courses offered in
+the institute.
+
+PG students can do Online Courses under approved IP/IS credits of their specific
+discipline/program and will be awarded regular grade (A to F) by the concerned
+faculty supervisor.
+(2) Pre-Registration of Courses
+Pre-registration is necessary part of the academic registration for non-first semester
+students. In case a student fails to do pre-registration of courses, a penalty may be
+imposed if the student does not register his/her preference within the stipulated period.
+(3) Late Registration
+a. Late registration is permitted as per academic calendar on the payment of late
+registration fee. The late fee may be waived if the delay is due to an academic activity
+
+11
+
+undertaken with prior permission. The number of days missed due to late arrival shall
+be treated as leave of absence. A fee for late academic registration may be imposed.
+(4) Adding or Dropping of Courses
+a. A student can change the courses that he/she does in a semester by adding and
+dropping courses till the last date for add/drop as specified in the academic calendar.
+In addition, a student can drop, with permission from the Chair PG Affairs, some
+courses even beyond the last date for add/drop, i.e. before the late drop date
+mentioned in the academic calendar.
+(5) Cancellation of registration
+A student is solely responsible to ensure that all conditions for proper registration are
+satisfied, and there are no timetable clashes. The registration may be cancelled by DOAA
+for a course if any irregularity is found at a later stage. A student’s registration for the
+semester may be cancelled as part of disciplinary action. Leave beyond permissible limits
+may also result in cancellation of registration for a semester.
+(6) Summer term registration
+Registration in the summer term is optional. But if a PG student is doing some academic
+work, he/she is required to register. A PG student on financial plan of the Institute is
+expected to remain in the Institute and work during the summer term even if he/she is not
+registered, though he/she may take vacation as per rules. A student can register for up to
+8 credits of which up to 4 credits can be for thesis work/IS.
+(7) Registration of an Audit Course
+A PG/Ph.D. student can be allowed to take a course as Audit on the condition that it will
+count in the maximum course load for a semester but not in the calculation of CGPA.
+Further, the faculty teaching the course will specify the requirements including attendance
+and a minimum passing grade right in the beginning. The final grade for Audit course will,
+however, be ‘S” or ‘X’. A student having “X” grade in a audit course can do the course
+again as audit or credit. However, a student having “S” grade in an audit course, cannot do
+the same course again.
+
+9. Leave Rules
+The students may be granted leave of absence on application to the AAC. The following
+leaves are applicable:
+
+12
+
+(1) Vacation and casual leave
+a. A post graduate student on financial assistance plan from the Institute may be allowed
+vacation leave during any period of Institute’s vacation or during the mid-semester
+recess up to a maximum of 15 days per semester (six months), subject to a maximum
+of 30 days at a time. Leave not availed in one semester may be carried over to the
+next semester.
+b. In addition, a student irrespective of the financial assistance may be allowed to go on casual
+leave for up to 8 working days in a calendar year, with permission.
+
+(2) On-Duty leave
+a. A Ph.D. student may be granted on-duty leave for attending seminars, conferences,
+traveling on project work, etc. For this leave, the candidate has to take approval from
+his/her advisor as well as the AAC.
+(3) Summer leave
+a. A PG student who is on financial assistance may be granted leave during the summer
+vacation period for undertaking internships, projects etc. This will be “leave without
+pay” and during this period, the student will not get the assistantship/scholarship.
+Decision on such leave requests will be made by the AAC, which may not grant this
+leave if it views that granting of the leave can hinder the completion of the PG
+program of the student. All students taking such leave, must report for registration the
+next semester, even if they do not have any course requirement next semester. Any
+relaxation of this guideline will be decided by the AAC, and will be granted only on
+academic grounds (e.g. a student is attending a conference).
+(4) Semester leave
+a. Semester leave may be granted to students by the AAC upon recommendations of the
+supervisor on various accounts, including medical, for up to a maximum of two
+semesters in the program. In the case of semester leave, the academic registration of
+the student shall be cancelled for that semester. The financial assistance to students
+shall also be not available during the period of semester leave. An M.Tech. student
+cannot avail semester leave for Internship during the first three regular semesters
+(Monsoon and Winter) of the degree program. However, he/she may plan to graduate
+by the end of the 3rd Semester for pursuing Internship in the 4th semester, after having
+completed all the graduation requirements by the end of the 3rd semester.
+b. When the total days of absence is more than 20 days in a semester, the student may be
+required to take a semester leave.
+(5) Medical leave
+a. A student can also take up to fifteen days of leave due to medical reasons. Competent
+authority can give up to six more days of leave under special circumstances. All
+13
+
+medical leave requests must be supported by a medical certificate issued by a medical
+doctor.
+(6) Maternity and Paternity leave
+a. As per GoI rules.
+(7) Unauthorized absence
+a. Absence of a student without any sanctioned leave will result in the loss of financial
+assistance and may result in the termination of the student’s program.
+(8) Leaving the program
+a. If a student decides to leave the program, he/she has to leave the program at the end
+of the ongoing semester. The student has to inform the AAC and advisors in advance
+(at least one month), complete the teaching duties, if any, return all the equipment’s
+and data, and get signatures on the no-dues form
+
+10.Working with Collaborators outside IIIT-Delhi
+(1) A PG student may interact and work with an approved external co-supervisor in a
+collaborating organization. Students shall require permission from the AAC to proceed to
+work with the external co-supervisor. All students working with the external cosupervisor shall be governed by the following guidelines during the period of absence
+from IIIT-Delhi.
+a. Such students shall be required to register each semester as per the registration
+procedure of IIIT-Delhi
+b. The students are expected to follow the rules of the collaborating institute but shall
+continue be governed by the rules and regulations of the IIIT-Delhi.
+c. They shall be reporting to the external supervisor(s) for their research work on their
+thesis and shall be in constant touch with the supervisor(s) at IIIT-Delhi. This may be
+through a regular video/audio conferencing or through regular reporting.
+d. Such students are permitted to register as a non-degree/visiting student in an institute
+other than IIIT-Delhi and may transfer the credit. Transfer of credits will be decided
+on a case-by-case basis by the AAC. The students can also take course on audit and
+submit the performance records for the consideration of waiver of course
+requirements if desired.
+
+14
+
+e. They shall not be provided any financial assistance from the Institute during the
+period they are with the external co-supervisor. Financial assistance during these
+periods shall be provided by the collaborating institute as per their norms, or some
+other sources like scholarships from agencies, etc.
+(2) When working with collaborators outside the Institute, the IP rights will be as decided
+between the supervisor(s), and the sponsoring agency, if any. Any such arrangement shall
+be done with the concurrence of the AAC, and shall not interfere with the ability of the
+student to write his/her thesis and publish results of the work.
+
+11.Internship rules for M.Tech. students
+An M.Tech. student may do a single 6-month internship during the course of their
+program. The earliest that this internship can take place is during the 4thregular Semester
+only. The internships for M.Tech. students will be allowed under the approved internship
+rules available on IIITD website.
+M.Tech. students may be allowed to submit and defend their thesis during the internship,
+provided the student has completed the thesis work and only thesis writing and defense is
+pending. If a student has completed the thesis, then the advisor(s) may allow a student to go for
+internship, and the student can defend the thesis while being on internship. Based on the
+supervisor's recommendation, the Academic section will issue an NOC to students undertaking a
+thesis and taking 16 credits for the thesis. The NOC will specifically mention that the thesis
+defense is pending for the student. The graduation date will be decided in accordance with the
+date of the thesis defense and the date of submission of the final thesis. This will not be
+applicable to students taking capstone projects. Other rules for issuing NOC will remain the same.
+The supervisor will have to submit the grade along with the final thesis as per the timeline
+mentioned below
+Graduation Dates
+S.No.
+
+Events
+
+1
+
+Submission of final thesis report
+after thesis Defense
+
+2.
+
+Final grade will be updated after the
+Thesis Defense and final thesis
+submission at the end of
+
+June 21
+
+Sept 21
+
+Jan 21
+
+By May 21
+
+By Aug 21
+
+By Dec 21
+
+Winter
+Semester
+
+Summer
+Term
+
+Monsoon
+Semester
+
+15
+
+12.Teaching and Evaluation
+(1) Teaching
+a. As specified in the Regulations for B.Tech. Program
+(2) Continuous evaluation
+a. As specified in the Regulations for B.Tech. Program
+
+(3) Grading scheme
+a. One of the letter grades given in the following table shall be awarded to a student
+reflecting his/her overall performance in a course. Each letter grade carries certain
+points as given in the table, and these points are used in the computation of the
+SGPA/CGPA as explained later.
+Letter Grade
+A+ (Outstanding)
+A (Very Good)
+A(-)
+B (Good)
+B(-)
+C (Satisfactory)
+C(-)
+D (Marginal)
+F (Fail)
+
+Grade
+Points
+10
+10
+9
+8
+7
+6
+5
+4
+2
+
+I (Incomplete)
+
+Nil
+
+W(Withdrawn)
+
+Nil
+
+S (Satisfactory)
+X (Unsatisfactory)
+
+Nil
+Nil
+
+Remarks
+
+Letter grades A+ to F and I are given only in the regular courses.
+This grading scheme is effectively A to F; A+ is only to recognize
+excellent performers in a course – it has same points as A.
+
+F Grade is not counted in the calculation of CGPA, however, it is
+counted in the calculation of SGPA.
+Incomplete (I grade) must be converted to one of the letter grades
+(A to F) as per the academic calendar
+“W” grade shall be printed in the transcript of the students who do
+‘Late Drop’
+S and X are grades for only certain kinds of courses like Audit
+course. They are not incorporated in SGPA/CGPA calculation.
+
+b. In the academic courses, the final grades awarded are A to F (A+ is a grade with same
+
+points as A, and is there to honor excellence).
+c. An I (Incomplete) grade may be awarded in cases when all the requirements for a
+course are not met by the student at the time of submission of grades, and it
+essentially reflects an “incomplete” status in the ERP. For all courses including
+project based courses this grade must be converted to a regular letter grade (A to F, S
+16
+
+or X) within one month of the end of the current term (moderation date). For courses
+other than project / independent study, incomplete grade “I” is meant primarily for
+medical reasons. All unconverted “I” grades are automatically converted to F grade
+after the grade conversion deadline, which is one month after the moderation date
+d. All courses in which a student obtains an F grade must be repeated or replaced by
+another equivalent course.
+e. Thesis/Scholarly Paper registration will be in multiple “courses” of 4 credits each (i.e.
+for 8 credits, a student will have to register for two thesis courses with the name
+M.Tech. Thesis progress, M.Tech. Scholarly Paper progress, M.Tech Capstone
+Project progress each of 4 credits) and S/X grades will be assigned to each of these.
+At the end of the last semester, the student will register for 16 credits of M.Tech.
+Thesis and final letter grade will be awarded at the end of Thesis defense for full 16
+credits which will be counted towards SGPA and CGPA. Similarly, for scholarly
+paper, student will be register for 4/8 credits of M.Tech. Scholarly Paper in the last
+semester and the final letter grade will be awarded after the submission of SP report
+to the advisor. Further, student’s advisor(s) also has(have) to submit a report for
+student’s progress to AAC.
+(4) Performance Indicators – SGPA and CGPA
+a. The semester performance is indicated by a Semester Grade Point Average (SGPA)
+which is a weighted sum of all the points earned in the courses done in a semester.
+The SGPA is given for each semester and is computed using the following formula.
+SGPA = (u1.w1 + u2.w2 + … + un.wn) / (u1 + u2 + … + un),
+Where ui is the number of credits for the course i and wi is the points earned through
+the letter grade in that course.
+b. While doing the computation of SGPA, the course/thesis credits with grades S and X
+are ignored.
+c. The overall performance is indicated by a Cumulative Grade Point Average (CGPA)
+which is computed in the same manner as the computation of SGPA but for all the
+courses done in the program. While the F and X grades shall show on the grade sheet,
+the original grade of a course repeated/replaced is ignored in the computation of
+CGPA.
+d. ‘F’ grade shall not be counted in the calculation of CGPA, however, it is counted in
+the calculation of SGPA.
+
+17
+
+13.Minimum Academic Performance Requirements
+(1) M.Tech. program
+a. The minimum graduating CGPA is 6.5.
+b. The minimum SGPA/CGPA for continuing in the program is 6.0. If the SGPA/CGPA
+falls below this, the student may be placed under warning first, and if the performance
+does not improve, may be asked to leave the program.
+(2) Ph.D. program
+a. The minimum graduating CGPA is 7.5.
+b. The minimum continuing CGPA is 7.0. If the CGPA falls below this, he/she may be
+asked to shift to M.Tech. program or leave.
+c. If the SGPA in the first semester falls below 7, the student concerned will be issued a
+warning by Academic Section.
+
+14. Students under Warning
+(1) For a student who is under academic warning there will not be any financial penalty because
+of academic warnings in the case of Ph.D. students. Similarly, such students can also be assigned
+TAships. However, the student will not be allowed to be on any elected/nominated
+
+committee representing students of the Institute, and if s/he is on any committee he/she
+shall resign.
+
+15. Requirements for the M.Tech. Degree
+(1) Per Semester Load Requirements
+A normal full time load is 12 credits to 20 credits including the credits of OOPD, RM and
+TAship. For the students doing TA duty, it will count as 4 credit load. A student may be
+permitted an overload of at most 4 credits in a semester in 2rd and subsequent semesters if
+he/she has CGPA>8.00. Students who have completed the stipulated course requirements
+shall register for thesis or scholarly paper in multiple “courses” of 4 credits each (i.e. for
+8 credits, a student will have to register for two thesis courses, each of 4 credits) and S/X
+grades will be assigned to each of these. No overload shall be permitted in the thesis unit
+registration. Part time students may register for any number of credits lesser than the
+normal full-time load.
+
+18
+
+(2) Course Work Requirements
+a. A student may do an M.Tech. with thesis or with scholarly paper or without ‘thesis
+and scholarly paper’. In some programs, Thesis is a mandatory requirement for which
+program specific regulations need to be referred. In with-thesis option, an M.Tech.
+student must complete a minimum of 32 credits of course work. In the Scholarly
+Paper option, the student must complete 40 or 44 credits (depending on the credits of
+the Scholarly Paper). In without ‘thesis and scholarly paper’ option, the student must
+complete 48 credits of course work. The supervisor or the AAC may advise the
+students with insufficient background to do additional course credits. In addition,
+students are required to do some “refresher” modules for strengthening their
+background. These modules will be reflected in the transcript.
+For the students admitted in academic year 2018-19 onwards, the grades earned in the
+`Summer refresher’ courses will not be counted towards CGPA calculation and in 48
+credits of degree requirements. However, summer refresher grades will reflect in the
+transcript. The grades for `Object Oriented Programming’ and `Research Methods’
+will count towards CGPA and the credits for these courses will be over and above 48
+credits degree requirement.
+b. An M.Tech. student must complete the core/bucket requirements for completion of
+degree. He/she can replace upto two courses falling under the category of elective by
+another elective and IS/IP by another IS/IP. Further, a core course grade can only be
+replaced by a core course.
+c. M.Tech. students can also repeat a course which they have already done for grade
+improvement, in such cases best of the 2 grades will count towards the CGPA. An
+M.Tech. student may also be allowed to do extra courses. All such permissions shall
+be granted by the AAC upon requests from the students
+(3) Thesis/Scholarly Paper credit and Total Credit requirements
+a. For M.Tech. with-thesis, a student has to complete a minimum of 16 credits of thesis.
+For M.Tech. with scholarly paper, he/she has to complete 4 or 8 credits of scholarly
+paper. The total minimum credit requirements for an M.Tech. degree is 48 credits
+(32+16 for M.Tech. with thesis, and 40+8 or 44+4 for M.Tech. with scholarly paper).
+A M.Tech. student can also do M.Tech. without ‘Thesis and Scholarly Paper’, i.e
+with 48 credits of course work. However, for some programs Thesis is a mandatory
+requirement for which students are required to refer program specific requirements.
+19
+
+b. For the purpose of grading in the thesis/scholarly paper credits registered, the
+progress in the thesis/scholarly paper work shall be assessed by the thesis
+supervisor(s). For each semester, one S (if the performance is satisfactory) or one X
+(if the performance is not satisfactory) grade shall be awarded by the thesis
+supervisor(s) to each of the registered thesis/scholarly paper courses of 4 credit each.
+In the last semester a letter grade shall be awarded for the complete 16 credits of
+Thesis/4 or 8 credits of Scholarly Paper.
+(4) Thesis Option: Supervisor, Evaluation, and Defense
+a. The M.Tech. thesis shall be done under the guidance of thesis supervisor(s), who
+shall be regular faculty member(s) of the Institute or a Visiting Faculty (with a Ph.D
+degree). A thesis may also have co-supervisors, who may be Adjunct Faculty of the
+Institute, or external co-supervisors approved by the AAC.
+
+b. An M.Tech. thesis shall be evaluated by an evaluation committee which shall consist
+of the supervisor(s), including co-supervisors, and two other non-supervisor
+examiners. For a thesis, it is desirable to have one of the examiners from outside the
+Institute. The committee must be approved by the AAC.
+c. The M.Tech. thesis must be defended by the student in front of the thesis evaluation
+
+committee. The defense should be held no earlier than one-week after the thesis has
+been submitted (exceptions may be granted by Chair PG Affairs). The thesis
+evaluation committee shall make its recommendation to the AAC.
+d. For Scholarly paper the evaluation committee consists of only the Supervisor (s).
+e. For Capstone project the evaluation committee consists of Supervisors which include
+supervisor from industry/research lab. The grades for members in a team will be
+decided by the supervisors of the project, based on their assessment of the work done
+by the members, and the extent to which they have been able to meet the deliverables
+(5) Scholarly Paper Option: Supervisor and Evaluation
+a. A student doing M.Tech. with Scholarly Paper has multiple options for completing
+the scholarly paper requirement: a Regular Scholarly Paper and a Capstone Project.
+b. Regular Scholarly Paper: The regular scholarly paper shall be done under the
+guidance of a supervisor, who shall be a faculty member of the Institute. A scholarly
+paper may also have co-supervisors, who may be Adjunct Faculty of the Institute, or
+external co-supervisors approved by the AAC. For this scholarly paper, no defense is
+required. It will be evaluated and signed by the supervisor(s) and the result along
+with copy of Scholarly paper communicated to the Academic Administration.
+20
+
+c. Capstone Project: Scholarly paper can also be done through a capstone project. The
+projects are usually defined by one or more faculty members who will act as
+supervisors, but can include supervisors from industry or other academic institutions.
+Students can undertake to do a project singly or in a team. The deliverables of the
+project will be clearly specified by the supervisors, as will the grading scheme to be
+adopted in meeting these deliverables. The grades for the students in the team will be
+decided by the supervisors of the project, based on their assessment of the work
+done/deliverables, and the project report. The grades along with a copy of project
+report will be communicated to the Academic Administration.
+(6) Award of degree
+Upon a satisfactory report from the Dean, Academic Affairs, the Academic Senate may
+recommend the award of the M.Tech. degree to the student. The default graduation date
+for a M.Tech. student will be after completion of 2 years of the M.Tech. program. In case
+a student completes his graduation requirements in 3 semesters and want to graduate with
+an early date, he can request for the same. While pending the actual award of the degree
+in a regular convocation of the Institute, the Dean of Academic Affairs may authorize the
+Registrar to issue a provisional certificate to a student who completes the requirements
+for graduation.
+
+16. Requirements for the Ph.D. Degree
+(1) General
+A student shall be considered for the award of Ph.D. degree by the academic Senate only
+upon the completion of the requirements mentioned here. Per semester load requirements
+of Ph.D. students is same as for M.Tech. students. However, Ph.D. students who are on
+assistantship may be given a relaxation of up to 8 credits in the normal full time load.
+(2) Course Work Requirement
+a. The requirement of the course work for a Ph.D. student is aimed at providing the
+basic academic preparation to carry out the research, and have sufficient breadth in
+the area. The minimum course requirement for a Ph.D. student is normally 32 credits
+for students whose highest degree is a B.Tech. (or equivalent), and 16for those who
+have an M.Tech. (or equivalent). A Ph.D. student need to complete this requirement
+only by doing courses of 500 level or above. However, a Ph.D. student can take any
+300 level course for learning purpose. For a Ph.D. student taking on the way M.Tech.
+300 level course will count towards M.Tech. as per the clause mentioned in M.Tech.
+regulations. After the course work, the student is expected to have sufficient breadth
+in at least three of the main sub-areas of Computer Science. The AAC may ask the
+21
+
+students with insufficient background to do additional courses (in addition to 32/16
+credits).
+Further, the following are the other requirements:
+Discipline
+
+B.Tech. (or
+equivalent)
+B.Tech. (or
+equivalent)
+
+Coursework
+Requirements
+32
+credits
+
+CSE
+M.Tech. (or
+equivalent)
+
+16
+credits
+
+B.Tech. (or
+equivalent)
+
+32
+credits
+
+ECE
+M.Tech. (or
+equivalent)
+
+20
+credits
+
+B.Tech. (or
+equivalent)
+
+32
+credits
+
+CB
+M.Tech. (or
+equivalent)
+B.Tech. (or
+equivalent)
+Mathematic
+s
+
+M.Sc.
+(Mathematics
+)
+M.Phil.
+(Mathematics
+)
+
+B.Tech. (or
+equivalent)
+
+16
+credits
+32
+credits
+24
+credits
+16
+credits
+
+1 IS and 1
+IP allowed
+(4 credits
+each)
+1 IS
+allowed
+(4 credits)
+1 IS and 1
+IP allowed
+(4 credits
+each)
+1 IS
+allowed
+(4 credits)
+1 IS and 1
+IP allowed
+(4 credits
+each)
+1 IS
+allowed
+(4 credits)
+1 IS and 1
+IP allowed
+(4 credits
+each)
+1 IS
+allowed
+(4 credits)
+1 IS
+allowed
+(4 credits)
+
+SSH***
+
+24
+credits**
+
+Special Requirements
+
+56 credits
+
+56 credits
+
+56 credits
+
+56 credits
+
+32
+credits
+Max. 2 IS
+allowed
+( 4 credits
+each)
+
+M.Phil.
+
+Research
+work
+Requirement
+s
+
+56 credits
+
+RM5xx
+Research
+Methods
+(2-credit
+compulsor
+y course)*
+
+Sociology/Anthropology: (i). Students are
+expected to compulsorily take 3 courses Research Methods in
+Sociology/Anthropology, Theories in
+Sociology/Anthropology and
+Sociology/Anthropology of India worth 12
+credits in total. Once these courses are
+offered within the dept, the expectation is
+that these courses are only taken with the
+dept and cannot be substituted for credits if
+taken elsewhere. The total of 32 course
+credits will be divided as 16 credits for
+Courses and 16 credits for Ph.D. level
+research seminar style classes (where
+research papers are intensively discussed by
+the course instructor). Students are
+encouraged to actively audit any related
+courses other than those expected for credit
+
+22
+
+HCD****
+
+M.Tech. (or
+equivalent)
+
+16
+credits
+
+B.Tech. (or
+equivalent)
+
+32
+credits
+
+12th + 5 years
+of relevant
+education
+
+24
+credits
+
+M.Tech. (or
+equivalent)
+
+16
+credits
+
+coursework with the permission of the thesis
+adviser.
+(ii). The student is expected to have
+published in well reputed national/
+international journals and presented at well
+reputed national/ international conferences.
+In case of book chapters, the expectation is
+to have published them with well-reputed
+international publishers such as Sage/Wiley
+etc. The thesis advisor and the AAC will
+judge the nature and the prestige of the
+conferences/book publishers.
+
+1 IS and 1
+IP allowed
+(4 credits
+each)
+1 IS
+allowed
+(4 credits)
+1 IS
+allowed
+(4 credits)
+
+56 credits
+
+*This will not be counted to minimum credit requirement and may be waived for those who did a same course during their
+B.Tech./M.Tech. program at IIITD
+**This waiver in coursework may only be provided with the permission from the thesis advisor and the dissertation committee.
+***500-level courses (or higher) will be considered towards the Ph.D. program. However, students may be allowed to take at most
+two advanced undergraduate courses (300-level or higher) with the permission of the thesis advisor and AAC.
+****The course work will include mandatory courses from Design and will be taken from a bucket defined by the DRC of the dept.
+
+Note: M.Tech. (including dual-degree M.Tech. students) and B.Tech. students joining Ph.D.
+program within two years of completing their B.Tech./ M.Tech. degree from IIITD (irrespective of
+when they join) may be allowed by AAC to do one additional IS with strong recommendation of
+Advisor(s).
+
+b. In special cases, for students with advance standing by virtue of their academic
+preparedness and/or by virtue of their professional work experience, some of the
+course requirements may be waived. All such waivers shall be decided upon by the
+AAC and reported to the Senate.
+c. A Ph.D. student may be permitted to replace up to two courses done by him/her and
+in which he/she has obtained passing, but not good, grade. The replacement will be
+permitted as and when the request is made by the concerned student after publication
+of result provided it does not result in underload. In this case, the earlier course will
+be listed in the transcript as having been taken on “Audit”. He/She may also be
+permitted to do extra courses to improve the CGPA. All such permissions shall be
+granted by the AAC upon requests from the students.
+
+23
+
+(3) Transfer of Credits for Courses done Outside
+a. Students may be permitted to do academic work and courses in places of repute
+outside IIIT-Delhi. Based on their performance/quantum of work done and the
+content of the course, the AAC may consider them equivalent to some course credits,
+and waive credit requirements for similar courses/projects within IIIT-Delhi.
+Institutions with which IIIT-Delhi has arrangements/MOU/student exchange
+programs, transfer of credits may also be permitted. Any such waivers/transfer is
+permitted only if the courses being considered have not been counted for any other
+degree/diploma requirement.
+b. It is clarified that the CGPA of the course taken at other universities with whom we have no
+MoU will not contribute towards the CGPA at IIITD. For the exchange program, we will
+refer to the MoU to know if the grades should be counted in CGPA or not. If any student does
+any course at some other University where there is no MoU, then by default, the grades will
+not be counted towards the CGPA. These will only contribute to the total credits for
+graduation at IIITD. It is also made clear that the counting of credits or CGPA will be dealt
+with in accordance with the clarification given above.
+
+(4) Thesis credit requirements
+a. All Ph.D. students irrespective of their entry category are expected to successfully
+complete a minimum of 56 credits by thesis. In truly exceptional cases where the
+Ph.D. candidate is ready with a thesis before he/she has accumulated these credits, the
+AAC can consider waiving off some of these credits. For the purpose of grading in
+the thesis credits registered, the progress in the thesis work shall be assessed by the
+thesis advisor(s). For each semester, one S (if the performance is satisfactory) or one
+X (if the performance is not satisfactory) grade shall be awarded by the thesis
+advisor(s). The thesis grades shall be submitted by the thesis advisor(s) at the end of
+the semester.
+Ph.D. students on completion of 5 years of registration will continue to do online
+registration in the ERP and will present their progress of research work before the
+monitoring committee till they submit the final thesis for evaluation.
+(5) Thesis Advisor and External joint advisora. The thesis work shall be done under the guidance of the Ph.D. advisor, who shall be a
+faculty member of the Institute. An adjunct faculty can also be an advisor, with
+permission of the AAC. There may be multiple advisors. A student can change the
+
+24
+
+advisor later – for this a formal request will have to be submitted to AAC and has to
+be signed by the old as well as the new advisors.
+b. Assignment of Advisor(s) will be done as under:
+1. For a student who is selected on project funding or Institute funding – the offer of
+admission to be issued to the student will state that the student has to choose from one of the
+following two options:
+i. To be on specific project funding under X faculty. In this case, X faculty will
+be the student advisor from Day 1 of his/ her Ph.D.
+ii. To be on Institute funding, for which there may be more than one interested
+faculty members (names will be disclosed in the admission offer letter) and
+in this case, a student will have to finalize the advisor within a month of his/
+her joining.
+2. For a student who is selected on project funding - the offer of admission will state that
+the student has been selected under X faculty member against Y project position. If he/ she is
+keen to accept the offer, then he/ she may do so. In this case, X faculty will be the student
+advisor from Day 1 of his/ her Ph.D.
+3. For a student who is selected on Institute funding - the offer will state that the student
+has been selected under Institute funding. In this case, names of all the interested faculty
+members will be disclosed in the admission offer letter and the student will have to finalize
+the advisor within a month of his/ her joining.
+● Ph.D. students coming through regular admissions will be required to join the Institute
+at least a month before the add/ drop week. This practice may be started from the next
+admission cycle.
+● A Ph.D. student selected through regular admissions will be on Institute fellowship for
+the first month of his/ her Ph.D.
+● A Ph.D. student will be required to finalize the name of the Ph.D. advisor within a
+month of his/ her joining the Ph.D. program and as early as possible. From the day of
+assignment of Ph.D. advisor, the fellowship source of the student will count against
+his/ her advisor.
+c. A student may also have external joint advisor for the thesis. Such external joint
+
+advisor shall be approved by the AAC upon a request by the student, duly approved
+and forwarded by the advisor(s). The request must be accompanied by the CV/Bio or
+sufficient information about the proposed external joint adviser which will allow the
+AAC to evaluate the suitability. Normally, the external joint advisor should be
+25
+
+finalized before the comprehensive and the AAC should be informed by the adviser
+and the student about the same.
+d. Change/ Status of Advisor of a Ph.D. student when (i) Advisor (Regular faculty)
+leaves IIITD and becomes adjunct faculty (ii) when the Advisor leaves the
+Institute or when the student wants to change the Advisor and (iii) when the
+Advisor (Regular faculty) goes on long leave.
+The request should be considered as per guidelines available at Annexure.
+
+(6) Monitoring Committee and Yearly Review / Yearly Seminar
+a. The AAC shall form a monitoring committee for each candidate, whose task will be
+to independently monitor and report on the progress of the candidate. The committee
+should generally be formed before the end of the candidate’s second semester in the
+program and should consist of at least three faculty members/experts.
+b. The monitoring committee shall submit its evaluation about the progress of the candidate,
+at least once a year. If the monitoring committee feels that the candidate is not making
+sufficient progress, it may recommend suitable actions to be taken, including
+recommending that the student leave the Ph.D. program or migrate to M.Tech., as given
+in 6(3). This review may be done by requiring the Ph.D. students to make presentations
+about their progress, or through some other method.
+
+(7) Comprehensive
+The aim of the comprehensive examination is to check the understanding of the Ph.D.
+student about his/her area of research. (Though a comprehensive traditionally was meant
+to check that the student has sufficient breadth, the Institute feels that this type of breadth
+requirement should be fulfilled through courses, and the comprehensive should be used to
+test the “comprehension” of the candidate about his/her main area of research.) For the
+comprehensive, the student shall present a complete literature survey (much on the lines
+of papers in ACM Surveys), research proposal and research plan on his/her area of work.
+The survey report will be submitted to the committee formed for the comprehensive
+exam by the AAC. The student will present a seminar on the above. The seminar should
+be open for all to attend. After the seminar, the committee may examine the student
+further and will submit its report regarding the outcome of the comprehensive to the
+AAC. If the student fails the examination, he/she is allowed an additional half a semester
+( i.e. 3 months) to retry.
+A student is expected to complete his/her comprehensive examination as per the
+following timeline:
+
+26
+
+Sl.No
+.
+
+Category of Ph.D. Student
+
+Time limit for completion
+of Comprehensive Exam
+
+Ph.D. students admitted directly from
+a B.Tech.
+Ph.D. students after completing
+M.Tech.
+Ph.D. students migrating from
+M.Tech. from the date of joining
+Ph.D.
+
+5 semesters
+
+4
+
+Ph.D. students after completing
+M.Sc.(Mathematics)*
+
+4 semesters
+
+5
+
+Ph.D. students after completing
+M.Phil(Mathematics)*
+
+3 semesters
+
+1
+2
+3
+
+Remarks
+
+3 semesters
+3 semesters
+For the comprehensive examination,
+the student shall present a complete
+literature survey
+(much on the lines of papers in EMS
+Surveys in Mathematical
+Sciences/Expositions
+Mathematicae), research proposal and
+research plan on his/her area of work.
+
+* Applicable for Ph.D.(Mathematics) students only
+
+For SSH :
+Economics - Time limit for completion of comprehensive exam is 4 semesters, irrespective of the
+students' background. In special cases one semester extension may be provided with a maximum
+of two attempts with permission from the thesis advisor and AAC. Students with an MPhil degree
+may be allowed to attempt the comprehensive exam after the completion of three semesters.
+Sociology/Anthropology - Time limit for completion of comprehensive exam is 3 semesters,
+irrespective of the students' background. In special cases, one semester extension may be
+provided with a maximum of two attempts with permission from the thesis advisor and AAC.
+
+(8) Regular Seminars / Yearly Review
+This requirement for regular seminar or a yearly review is moved to item (6).
+(9) Teaching Requirements
+a. One of the potential career options for the research students is academics. The Ph.D.
+program at IIIT-Delhi aims to develop suitable teaching skills among the research
+students through teaching requirements. Towards this, it requires all students on
+financial assistantship plan of the Institute are required to take part in the teaching
+activities.
+b. All Ph.D. students must be TA for at least two semesters to satisfy the teaching
+requirements for a Ph.D. degree. Students on research assistantship will also be
+required to complete this requirement, though they may be assigned lighter load each
+27
+
+semester. The feedback received from the course students on the TA work will be
+part of the Ph.D. student record, and will be an input in evaluation.
+c. Below are the TA rules
+1) A Ph.D. student getting institute fellowship for full duration of Ph.D. is required to
+do TA duty for 8 semesters
+2) A Ph.D. student who is RA (throughout) is required to do TA duty for a minimum
+of two semesters
+Institute support for 1st year followed by Project support
+for the remaining duration
+
+- 2 TA duty must
+
+Institute support for 1stand 2ndyear followed by Project
+Support for the remaining duration
+
+- 4 TA duty must
+
+Institute support for 1st, 2ndand 3rdyear followed by Project
+Support for the remaining duration
+
+- 6 TA duty must
+
+Institute support for 1st, 2nd, 3rdand 4th year followed by
+Project Support for the remaining duration
+
+- 6 TA duty must
+
+Institute support till 9th Semester followed by Project
+Support for the remaining duration
+
+- 7 TA duty must
+
+TA duty to be done in the first 4 years.
+If a student has not done the required TA duty, TA portion of the stipend shall be
+deducted.
+d. Students will be assigned their TA duties towards the end of a regular semester for
+courses in the next semester. During the break, they should prepare themselves for the
+course, and with help from the instructor, design the assignments, develop the
+solutions and grading of the assignments. They will also be involved in the grading of
+the exam papers and developing the solutions to the exam papers. Senior students are
+also encouraged to be a tutor as well as take part in the class room teaching, along
+with the corresponding instructors. Such arrangements are to be worked out between
+the instructor in-charge of the course and the student. It is expected that the load of
+TA work in a semester will be similar to that of a course, that is, approximately 10
+hours per week.
+
+28
+
+e. The teaching requirement may be waived for part-time and/or sponsored candidates
+(as their professional goals are likely to be already defined.)
+f. Issue of academic warning and termination of registration of Ph.D. students who are
+not performing their TAship duties sincerely
+Academic Section will take feedback about such TAs from faculty members on a monthly
+basis. This will help in sensitizing the students who are not performing their TA duties. If a
+Ph.D. student gets an “X” grade in TAship in one semester, then (s)he will be issued an
+“Academic Warning”. Further, if any Ph.D. student receives 2 such “Academic Warnings”,
+then his/her registration from the Ph.D. program will be terminated. Any academic warning /
+termination letter issued to the Ph.D. student should also be shared with his/her PhD
+advisor(s), so that Ph.D. advisor(s) can sensitize the student about the roles and
+responsibilities of a TA.
+
+(10) Thesis submission, Evaluation and Defense
+Each Ph.D. student is expected to write a thesis report on the Ph.D. work. The thesis
+has to be submitted by the student for evaluation. Guidelines for Ph.D. thesis
+evaluation are given separately.
+(11) Award of degree
+a. Upon acceptance of the revised thesis by the AAC, the Chairman, Senate may
+recommend the award of the Ph.D. degree to the student. While pending the actual
+award of the degree in a regular convocation of the Institute, the Chairman, Senate may
+
+also authorize the Registrar to notify the result and issue a provisional certificate to a
+student who completes the requirements for graduation.
+The date on the degree shall be as follows:
+● June 21 for the students who finish their requirements during the winter semester
+
+(e.g. 4th semester of M.Tech.)
+● Sep 21 for those who finish the requirements during summer term.
+● Jan 21 for those who finish the requirement during the Monsoon semester
+
+17.Prizes and Medals/Awards at Graduation
+a. The academic Senate of the institute can set up awards, prizes, medals etc. to be given to
+deserving students at graduation time.
+
+29
+
+b. Under exceptional circumstances, where gross violation of the conditions of the
+awards/recognition or academic misconduct is detected at a later stage, the Senate may
+recommend to the Board of Governors to withdraw the award and recognition
+
+18.Disciplinary Action Framework
+IIIT-Delhi maintains global academic standards in its own education system. Therefore, it
+does not tolerate any form of indiscipline/ academic dishonesty. Action will be taken
+against students found engaging in acts of indiscipline/ academic dishonesty by
+Disciplinary Action Committee (DAC) constituted by the Director. The disciplinary
+action may result in semester/year/two year drop or even expulsion from the Institute.
+Separate rules and regulations have been formulated to handle the cases of violations.
+
+19.Migration from B.Tech. to Dual Degree Program
+A B.Tech. student can opt to migrate to dual degree program of the institute anytime
+before the last date of Add/Drop of his/her 7th semester of the B.Tech. program.
+Eligibility criteria for this and regulations for the dual degree program are given
+separately.
+
+20.Power to Modify
+Notwithstanding all that has been stated above, the Senate has the right to modify any of
+the above regulations from time to time.
+Change History
+Version 1.1 (Jan 2012): Some changes were to simplify the explanation. Changes to rectify
+some observed deficiencies are:
+● 1 (1). Clarified that in Senate there will be at least one student representative….
+● 3 (2) Full time and Part-time student is now defined directly as student working full or part
+time for his/her studies. Further, “a full time student is expected to register for at least 12
+credits in a semester”. Minimum credits for which a part-time student must register changed
+to 4.
+● 3(3) Clarified, that a full time student may be permitted to become a part-time student
+towards the completion of the program.
+● 5 (1) b. Clarified that a Ph.D. student is not eligible for teaching assistantship or scholarship
+after five years.
+● 5 (1) c. Simplified description of Assistantship as sustenance stipend (25% of total),
+scholarship (25%), and remuneration for academic work (50%).
+30
+
+● 6(2) Clarified that if a student changes his/her programme from Ph.D. to M.Tech. then
+difference in stipends, including difference in tuition fees, will have to be refunded.
+However, if it is done on the recommendation of PGC, then the student is treated as M.Tech.
+student from the time of transfer and this refund is not necessary, and the student may be
+given preference for M.Tech.. Assistantship.
+● 6 (4) Migration from M.Tech. to Ph.D., added: “Such a student, for Ph.D. credit requirement,
+may be treated as if he/she had joined the Ph.D. program from the start of the PG program.
+The student may be granted an M.Tech. also, provided he/she fulfils requirements for the
+same”.
+● 7 Clarified that registration for student working with an external co-supervisor may register
+through electronic means.
+● 11 Minimum continuing CGPA of 6.0 in M.Tech. program is made uniformly applicable to
+all students irrespective of TA/non-TA ship., if the CGPA falls below this, then the student
+may be placed under warning first, and if the performance does not improve, may be asked to
+leave the program.
+● 11 (2) The minimum continuing CGPA in Ph.D. program is 7.0. If the CGPA falls below
+this, or the student is not progressing well in his/her research, then based on the
+recommendations of the adviser, he/she may be placed under warning or may be asked to
+shift to M.Tech. program or leave.
+● 13 (1) Normal per semester load for M.Tech. is relaxed to 12 to 20 credits instead of 16 or 20
+credits specified earlier.
+● 14 (5) b. The following has been added: “Normally, the external co-supervisor should be
+finalized before the comprehensive and the PGC should be informed by the adviser and the
+student about the same.”
+● 14(7) Comprehensive. Clarified that operational details will be informed by the PGC.
+Version 1.2 (July, 2013): include changes:
+● Enabler to Ordinances
+● 3(2)
+Full time students
+● 8(2)
+Pre-registration
+● 8(3) .b
+Penalty for late registration
+● 11(3).a
+Grading scheme table
+● 12(1)
+M.Tech. programme requirements
+● 12(2)
+Ph.D. programme requirements
+● 14(1)
+Normal full time M.Tech. load
+● 16
+Prizes and Medals/Awards
+● 17
+Disciplinary Action Framework
+● 18
+Migration from B.Tech. to Dual Degree Program
+● 19
+Power to Modify
+
+31
+
+Version July, 2014 Main Changes made are:
+i) From Winter Semester 2014 TA to be treated as a ‘0’ credit course
+ii) Options for Scholarly paper/ industry internship/Capstone project added.
+iii) Regulation 6 regarding change from Ph.D. to M.Tech. modified
+iv) Procedure to award degree to students who complete requirements in December added
+v) Registration of Online courses added
+vi) Revised CGPA calculation added
+
+Version August, 2014 Main Change made is:
+Change in Comprehensive examination and timeline for completion of comprehensive
+
+Version July, 2015
+i) Replacement upto 2 courses permitted anytime
+ii) Fresh M.Tech. student’s thesis guidance by Adjunct faculty allowed only with a cosupervisor
+iii) Revision of timeline for Ph.D. comprehensive examination
+iv) Revision of Ph.D. thesis evaluation guidelines
+v) Issue of Ph.D. provisional certificate by Registrar
+Version July, 2016
+(i) Starting of Ph.D. program in Mathematics
+(ii) Minor changes in Grading table
+Version January, 2017
+(i) Structural changes for PGC
+(ii) Regulations for handling special requirements for different disciplines
+Version July, 2017
+(i) Eligibility criteria for admission to M.Tech.(CB)
+(ii) Research Methods course compulsory for all new Ph.D. students
+Version April, 2020
+Para 1, (2) – Constitution of PGC
+Para 4, (1), (d) – Discipline wise minimum eligibility criteria for admission to Ph.D.
+programs
+(iii) Para 5, (1), (d) – Sustenance and scholarship portion of teaching assistantship for Ph.D.
+students
+(iv) Para 6, (5) – Eligibility of M.Tech. students for transfer to Ph.D. program
+(i)
+(ii)
+
+32
+
+Para 7 – Requirement of OOPD and RM for students who did another degree in IIITD
+prior to enrollment in the current degree
+(vi) Para 9, (4) – Updates semester leave rules for PG students
+(vii) Para 11, (3), (c)-Timeline for conversions of ‘I’ grade to proper grade
+(viii) Para 11, (3), (e)– Thesis/SP registration rules. Applicable from 2019 batch onwards
+(ix) Para 12, (1), (b) – Added SGPA
+(x) Para 14, (1) – Clarity in per semester load requirements. Applicable from 2019 batch
+onwards
+(xi) Para 14, (2),(a) – M.Tech. without Thesis option added. Applicable from 2019 batch
+Onwards
+Counting of Summer Refresher, OOPD and RM grades. Applicable from 2018 batch
+onwards
+(xii) Para 14,(2),(C)- Repeating a course already done
+(xiii) Para 14, (3), (b) – Grading for M.Tech. Thesis/Scholarly Paper. Applicable from 2019
+batch
+(xiv) Para 14, (5) – Removed Industrial Project option
+(xv) Para 15, (2) – Updations in course work requirement table.
+(xvi) Para 15, (9), (c)- TA Rules
+(v)
+
+Version January, 2021
+(i) Para 1(2) – AAC Committee
+(ii) Para 2 – Semester start dates
+(iii) Para 4.1- Addition in M.Tech. CB eligibility criteria
+(iv) Para 8.7 – Repeating audit course
+(v) Para 9.4, 11 – Internship rules for M.Tech. students
+(vi) Para 12.3(e) – Nomenclature for M.Tech. Thesis/Scholarly Paper
+(vii) Para 15(6) – Graduation date for M.Tech.
+(viii) Para 16(2) – Ph.D. course requirement
+(ix) Para 16 (11) – Degree granting dates
+
+Version February, 2023
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+
+3 (c)
+4.1.d
+8 (1)
+11
+14
+16(2)
+a.
+
+Industrial Doctoral program introduced
+Minimum qualification for Ph.D. in CB and SSH
+Change in Registration procedures and maximum duration of Ph.D. program
+Change in Internship rules for M.Tech. students
+No financial penalty for academic warning issued to Ph.D. students
+ECE Dept. yearly review rules changed
+-One additional IS for IIITD graduates joining Ph.d. program within 2 years of
+completing their B.Tech. /M.Tech.
+(vii) 16(3) Transfer of credits
+(viii) 16(5) Assignment of advisors
+(ix) 16(5) d- Status/change of Advisor when the Advisor (Regular faculty) leaves
+(x) 16(9) f.- Warning/termination of registration of Ph.D. students not doing TA duty sincerely
+
+33
+
+Annexure
+Status of Advisor (Primary/Co-advisor) of a Ph.D. student when Advisor (Regular faculty)
+leaves IIITD and becomes adjunct faculty before and after the comprehensive examination
+The Senate at its 55th meeting held on 27.7.2022 approved the following recommendation of the
+Academic Affairs Committee (AAC) made in its 19th meeting held on July 13, 2022:
+
+i. IITD does not use the terminology of primary advisor and co-advisor and instead calls
+them joint advisors. The same should be used throughout.
+ii.
+
+For students who have already completed their comprehensive:
+a. The faculty member may continue as the sole Ph.D. advisor. In such cases, a
+caretaker advisor will be appointed for administrative matters only. The
+caretaker advisor will not be mentioned as an advisor in the thesis.
+b. If there happens to be a case of major revision in the thesis, the advisor will be
+asked to help the student in carrying out the major revision. If s/he is unable to
+provide help for some reason, the caretaker advisor appointed in this case will
+be requested to provide the help for carrying out the revision.
+c. If the caretaker advisor provides substantial help in carrying out the major
+revision, s/he can be appointed as a joint-advisor
+d. Further, during the annual review, the monitoring committee will judge the
+progress of the student and if it is deemed insufficient then the monitoring
+committee may recommend having a joint-advisor from IIITD. The decision
+of the joint-advisor will solely be of the student and existing advisor
+
+. iii. For students who have not completed their comprehensive:
+a. A joint-advisor from IIIT-Delhi will have to be appointed and the Ph.D.
+student will be asked to find one and inform the Academic Section at the
+earliest. The student will be treated as not having an advisor and same rules
+will apply, i.e., in case the student does not find an advisor from the Institute in
+6 months, s/he may be asked to leave the Ph.D. program.
+Change of Advisor when (i) the Advisor leaves the Institute or (ii) when the student wants
+to change the Advisor
+Further to above the Senate also approved the following recommendation of the AAC made in its
+20th meeting held on July 25, 2022:
+Change of the Advisor when (i) the Advisor leaves the Institute or (ii) when the
+student wants to change the Advisor:
+34
+
+Request for change of the Advisor may be considered as per the existing rules. If there is
+any dispute between the student and the Advisor, the efforts should be made to settle the
+matter amicably. However, if the matter can not be resolved amicably and the student
+gives in writing that he/she will not include any part of the research work carried out
+with his/her existing Ph.D. Advisor in his/her Ph.D. thesis, then the student may be
+allowed to change the Advisor. The new advisor will have to ensure that no past work is
+used.”
+.
+These guidelines now supersede the previous guidelines related to change of Advisor, approved
+in 32nd meeting of the Senate (Item 32.19).
+
+Status of the Advisor when the Advisor (Regular faculty) goes on long leave.
+The Senate also agreed to the recommendation/suggestions of the AAC made in its 19th meeting
+held on July 13, 2022 and approved as under:
+It is clarified that when the Advisor (Regular faculty) goes on long leave a Caretaker
+Advisor will be appointed during the long leave on the recommendation of the existing
+Advisor(s) / DOAA. It is also suggested that in the form for long leave the word ‘Co
+advisor’ should be changed to ‘Caretaker Advisor”.
+
+35
+
+

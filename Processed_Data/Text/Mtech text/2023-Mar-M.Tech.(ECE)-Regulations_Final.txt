@@ -1,0 +1,328 @@
+Regulations for M.Tech. in Electronics and Communications
+Engineering (ECE)
+
+1.
+
+Preamble
+IIIT-Delhi subscribes to the view that a Masters degree is primarily industry-focused,
+though it can be used as a stepping stone for research as well. And the decision whether
+the degree is to be pursued for skill and knowledge up-gradation or also for building
+research skills should rest with the student.
+
+2.
+
+Program Educational Objectives
+PEO 1: To undertake industry careers involving innovation, problem-solving and leadership in
+Electronics & Communication Engineering and allied areas.
+PEO 2: To undertake research careers in R&D organizations and academia in Electronics and
+Communication Engineering and allied areas.
+PEO 3: To contribute to society by becoming a model citizen, who is good at communication,
+holds high standards of intellectual and personal honesty in every aspect of their career.
+
+The Institute also feels that to address the needs of the industry, which today requires
+more specialized manpower as each field is getting more complex, it is desirable to
+provide specializations within ECE in the M.Tech. program. For specializations, the
+Institute offers “M.Tech. in Electronics and Communications Engineering with
+specialization in <area>”. But, students also have an option to do an “M.Tech. in
+Electronics and Communications Engineering” without any specialization. This note lists
+the requirements for the M.Tech.(ECE). The general requirements for M.Tech. are given
+in Ordinances and Regulations for the M.Tech./PhD programs.
+
+3.
+
+General Requirements
+1. M.Tech.(ECE) may be done with a thesis, or with a scholarly paper / capstone project or
+without thesis and scholarly paper. In thesis and scholarly paper options, students have
+to do certain amount of course work. In addition, students doing M.Tech. with thesis will
+have to do a thesis. Students in scholarly paper / capstone project option will do instead
+of a thesis a scholarly paper / capstone project, and will have to do additional courses. In
+without thesis and scholarly paper option, student have to do only course work.
+2. The overall credit requirement for the M.Tech. is 48 credits. In addition to 48 credits a
+student has to complete all courses mandated by the institute [Currently the courses under
+this clause are Summer refresher of 4 credits, Object Oriented Programming and Design
+1
+
+(2 credits) and Research Methods (2 credits)]. Requirements of 48 credits for all three
+options are as follows:
+a. M.Tech. with thesis; 32 credits of course work + 16 credits of thesis. At most 4
+credits may be earned by doing 300 and 400 level courses.
+b. M.Tech. with Scholarly Paper; 40 or 44 credits of course work + 8 or 4 credits
+for a Scholarly paper. At most 8 credits may be earned through doing 300 and
+400 level courses.
+c. M.Tech. without thesis and scholarly paper option; 48 credits of course work.
+At most 8 credits may be earned by doing 300 and 400 level courses.
+3. A student admitted to the M.Tech. program will give his/her choice regarding whether
+he/she wants to pursue the thesis or without thesis option. However, this choice can be
+changed at any time during the program by suitably informing the Academic Affairs
+Committee. Credits earned for scholarly paper or thesis may be counted towards thesis
+or scholarly paper respectively, if approved by the AAC
+4. Each M.Tech. (ECE) student has to satisfy the core course requirement. For a
+specialization, this requirement is satisfied by completing all the core courses for that
+specialization. For M.Tech.(ECE) without specialization, this can be satisfied by
+completing 12 credits from any of the core courses of the ECE specializations.
+5. All other courses are electives. In electives, at most 8 credits of “Independent Study” and
+“Minor Project (Independent Project)” combined can be taken. Online course are
+permitted to be registered as Independent study.
+
+4.
+
+Requirements for Specialization
+Cyber Physical Systems
+1. For “M.Tech. in ECE with specialization in < CPS>” the student must:
+a. Complete the following core courses of the specialization area;
+(i)
+Probability and Random Processes
+(ii)
+Linear Systems Theory
+(iii)
+Communication Networks
+(iv)
+Principles of Digital Communication Systems
+(v)
+Estimation Theory
+b. If opted for Thesis/Scholarly paper, it should be in the specialization domain. The
+advisor will certify this fact.
+c. At least 8 credits should be from specialization electives in addition to the core
+courses, if opted for “M.Tech. with scholarly paper /capstone project option”
+d. At least 12 credits should be from specialization electives in addition to the core
+courses, if opted for “M.Tech. without thesis and scholarly paper option”
+(An illustration to complete 48 credits is given below with various graduating option.)
+Core Specialization Thesis/SP Other
+Total
+Elective
+Courses
+Graduating Option
+In Credits
+a. M.Tech. with thesis
+20
+0
+16
+12
+48
+2
+
+20
+b. M.Tech. with Scholarly Paper /
+capstone project (8 cr.)
+M.Tech. with Scholarly Paper /
+20
+capstone project (4 cr.)
+c. M.Tech. without thesis and scholarly 20
+paper option
+
+8
+
+8
+
+12
+
+48
+
+8
+
+4
+
+16
+
+48
+
+12
+
+0
+
+16
+
+48
+
+Machine Learning
+2. For “M.Tech. in ECE with specialization in < ML>” the student must:
+a. Complete the following core courses of the specialization area.
+(i)
+Machine Learning OR Statistical Machine Learning
+(ii)
+Probability and Random Processes
+(iii)
+Applied Optimization Methods for Machine Learning
+b. If opted for Thesis/Scholarly paper, it should be in the specialization domain. The
+advisor will certify this fact.
+c. At least 4 credits should be from specialization electives in addition to the core
+courses, if opted for “M.Tech. with Thesis option”
+d. At least 12 credits should be from specialization electives in addition to the core
+courses, if opted for “M.Tech. with scholarly paper / capstone project (8 credit)
+option”
+e. At least 16 credits should be from specialization electives in addition to the core
+courses, if opted for “M.Tech. with scholarly paper / capstone project (4 credit)
+option”
+f. At least 20 credits should be from specialization electives in addition to the core
+courses, if opted for “M.Tech. without thesis and scholarly paper option”
+(An illustration to complete 48 credits is given below with various graduating option.)
+Core Specialization Thesis/SP Other
+Total
+Elective
+Courses
+Graduating Option
+In Credits
+16
+a. M.Tech. with thesis
+12
+4
+16
+48
+b. M.Tech. with Scholarly Paper /
+capstone project (8 cr.)
+M.Tech. with Scholarly Paper /
+capstone project (4 cr.)
+c. M.Tech. without thesis and scholarly
+paper option
+
+12
+
+12
+
+8
+
+16
+
+48
+
+12
+
+16
+
+4
+
+16
+
+48
+
+12
+
+20
+
+0
+
+16
+
+48
+
+3
+
+VLSI & Embedded Systems
+3. For “M.Tech. in ECE with specialization in < VLSI >” the student must:
+a. Complete the following core courses of the specialization area;
+(i)
+Digital VLSI Design
+(ii)
+Analog CMOS Circuit Design
+(iii)
+Advance Embedded Logic Design
+b. Complete at least 20 credits of courses in the chosen specialization area, including
+the core courses (i.e. at least 8 credits more in the area)
+c. If opted for Thesis/Scholarly paper, it should be in the specialization domain. The
+advisor will certify this fact.
+(An illustration to complete 48 credits is given below with various graduating option.)
+
+Graduating Option
+a. M.Tech. with thesis
+b. M.Tech. with Scholarly Paper /
+capstone project (8 cr.)
+M.Tech. with Scholarly Paper
+/capstone project (4 cr.)
+c. M.Tech. without thesis and scholarly
+paper option
+
+Core Specialization
+Elective
+12
+12
+
+8
+8
+
+12
+
+8
+
+Thesis/SP
+In Credits
+16
+8
+4
+
+Other
+Courses
+
+Total
+
+12
+20
+
+48
+48
+
+24
+
+48
+
+This option is not available for students willing to
+graduate with VLSI specialization.
+
+4. The lists of elective courses for each specialization will be specified on the specialization
+page on IIITD website.
+5. For a specialization, the student’s enrollment must be approved.
+6. A student may be enrolled in “M.Tech.(ECE) with specialization in <area>” or “M.Tech.
+(ECE)”. Specialization areas are as notified/announced.
+7. A student doing M.Tech. without Thesis/Scholarly paper can do M.Tech(ECE) with
+specialization in CPS or M.Tech.(ECE) with specialization in ML or M.Tech.(ECE).
+8. A student enrolled in a specialization can move to M.Tech.(ECE) at any point by
+informing suitably. A student can move from M.Tech.(ECE) to a specialization only if
+permitted by the Academic Affairs Committee.
+9. If a student enrolled in a specialization completes all requirements for the M.Tech., but
+not the requirements for specialization, he/she will be eligible for “M.Tech. in Electronics
+and Communications Engineering.”
+
+5.
+
+Assistantship and Fee Waiver
+4
+
+1. Limited number of Assistantships will be available for M.Tech. students. As specified in
+the Regulations for M.Tech./PhD Programs, a student who is offered an Assistantship
+will be required to do 10-15 hours of academic work per week in-lieu of the
+Assistantship.
+2. Limited number of partial or full fee-waivers may be provided.
+Change History:
+July 2013. Minor change in the Preamble.
+July 2014: Major changes made are:
+(i) Bucket structure is replaced with core for each specialization; the core requirement
+regulation has been suitably enhanced.. (ii) The scholarly paper credits changed from 8
+to “4 or 8” (iii) Regulations added to clarify about specialization and movement between
+specialization and without specialization. (iv) Requirements for specialization
+clarified.(v) Option for doing M.Tech. with Thesis/ SP/ Industry Internship/Capstone
+project added and (vi) Rules for Assistantship and Fee waiver added.
+July 2015:
+Following changes have been made in the main PG regulation:
+i) Replacement upto 2 courses permitted anytime
+ii) Fresh M.Tech. student’s thesis guidance by Adjunct faculty allowed only with a cosupervisor
+July 2016
+(i) Minor changes shown in the main PG regulations
+July 2017
+(i) Program Educational objectives added
+July 2020
+(i) Without Thesis option added
+January 2021
+(i) Added 3xx/4xx level courses allowed for those doing M.Tech with course work
+(ii) Slight modification in rule regarding max credits of M.Tech. project/Independent study
+that are allowed.
+(iii) Specialization rule for M.Tech. with course work option
+(iv) PG Committee changed to Academic Affairs committee.
+
+5
+
+April 2021
+(i) Added 2 new specializations viz Cyber-Physical Systems and Machine Learning and
+removed Communication and Signal Processing specialization.
+
+6
+
+
